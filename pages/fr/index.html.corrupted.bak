@@ -1,0 +1,1368 @@
+﻿<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>鍒樼殑鍗氬 路 鍗佷簲骞撮厷閱涙爲鑴?Bakelite)閰嶄欢缁忛獙鍒嗕韩</title>
+  <meta name="description" content="鍒樺伐鍗佷簲骞碆akelite閰氶啗鏍戣剛閰嶄欢鍒堕€犵粡楠屻€備粠鏉愭枡閰嶆柟銆佹ā鍏疯璁°€佺敓浜у伐鑹哄埌璐ㄩ噺绠℃帶鈥斺€旈€夊浜у搧銆侀伩鍧戙€侀檷鏈€?>
+  <meta name="keywords" content="Bakelite,閰氶啗鏍戣剛,鑳舵湪閰嶄欢,鎵嬭疆,鎶婃墜,鏃嬮挳,鏈烘閰嶄欢,閰氶啗鏍戣剛甯傚満">
+  <meta name="author" content="鍒?>
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="鍒樼殑鍗氬 路 Bakelite閰氶啗鏍戣剛閰嶄欢涓撲笟鍗氬">
+  <meta property="og:description" content="鍗佷簲骞撮厷閱涙爲鑴傞厤浠跺埗閫犵粡楠屽垎浜紝甯姪浣犻€夊浜у搧銆侀伩鍧戙€侀檷鏈€?>
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="zh_CN">
+
+  <!-- hreflang -->
+  <link rel="alternate" hreflang="zh" href="index.html">
+  <link rel="alternate" hreflang="en" href="index_en.html">
+  <link rel="alternate" hreflang="ru" href="pages/ru/index.html">
+  <link rel="alternate" hreflang="ja" href="pages/ja/index.html">
+  <link rel="alternate" hreflang="ko" href="pages/ko/index.html">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Serif+SC:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/blog.css">
+</head>
+<body>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?瀵艰埅鏍?鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <nav class="navbar" role="navigation" aria-label="涓诲鑸?>
+    <div class="container">
+      <div class="navbar-inner">
+        <a href="#hero" class="navbar-brand">
+          <div class="navbar-logo">L</div>
+          <span>鍒樼殑鍗氬</span>
+        </a>
+
+        <div class="navbar-nav" role="menubar">
+          <a href="#hero">棣栭〉</a>
+          <a href="#about">鍏充簬鎴?/a>
+          <a href="#products">浜у搧灞曠ず</a>
+          <a href="pages/zh/blog.html">鍗氬</a>
+          <a href="#contact">鑱旂郴鎴戜滑</a>
+        </div>
+
+        <div class="navbar-right">
+          <div class="lang-switcher" aria-label="璇█鍒囨崲"></div>
+          <button class="hamburger" aria-label="鎵撳紑鑿滃崟" aria-expanded="false">
+            <span></span><span></span><span></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="mobile-nav" role="menu">
+      <a href="#hero">棣栭〉</a>
+      <a href="#about">鍏充簬鎴?/a>
+      <a href="#products">浜у搧灞曠ず</a>
+      <a href="pages/zh/blog.html">鍗氬</a>
+      <a href="#contact">鑱旂郴鎴戜滑</a>
+    </div>
+  </nav>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?Hero 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <section id="hero" class="hero">
+    <div class="container">
+      <div class="hero-inner">
+
+        <div class="hero-content">
+          <span class="hero-badge">閰氶啗鏍戣剛閰嶄欢 路 鍗佷簲骞翠笓涓氱粡楠?/span>
+          <h1 class="hero-title">
+            鍗佷簲骞村尃蹇冿紝<br>
+            <span class="highlight">涓撴敞閰氶啗鏍戣剛閰嶄欢</span>
+          </h1>
+          <p class="hero-desc">
+            浠庢潗鏂欓厤鏂瑰埌妯″叿璁捐锛屼粠鐢熶骇宸ヨ壓鍒拌川閲忕鎺р€斺€斿垬宸ュ垎浜崄浜斿勾 Bakelite 閰氶啗鏍戣剛閰嶄欢鍒堕€犵粡楠岋紝甯姪浣犻€夊浜у搧銆侀伩鍧戙€侀檷鏈€?
+          </p>
+          <div class="hero-actions">
+            <a href="#products" class="btn-primary">鎺㈢储浜у搧涓栫晫</a>
+            <a href="#about" class="btn-secondary">浜嗚В鏇村</a>
+          </div>
+        </div>
+
+        <div class="hero-visual">
+          <div class="hero-card-row">
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">15<span style="font-size:0.8em;">骞?/span></div>
+                <div class="hero-stat-label">琛屼笟娣辫€?/div>
+              </div>
+            </div>
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">10<span style="font-size:0.8em;">+</span></div>
+                <div class="hero-stat-label">璇瑕嗙洊</div>
+              </div>
+            </div>
+          </div>
+          <div class="hero-card-row">
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">200<span style="font-size:0.8em;">涓?/span></div>
+                <div class="hero-stat-label">骞村嚭鍙ｉ噺</div>
+              </div>
+            </div>
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">50<span style="font-size:0.8em;">+</span></div>
+                <div class="hero-stat-label">鍑哄彛鍥藉</div>
+              </div>
+            </div>
+          </div>
+          <div class="hero-card" style="padding:16px 20px;">
+            <div class="hero-card-label">涓撲笟棰嗗煙</div>
+            <div class="hero-card-text">閰氶啗鏍戣剛娉ㄥ 路 鏉愭枡閰嶆柟 路 妯″叿璁捐 路 灏哄鍏樊鎺у埗 路 鍑哄巶璐ㄦ鍏ㄦ祦绋?/div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?鍏充簬鎴?鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <section id="about" class="section">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">鍏充簬鎴?/span>
+        <h2 class="section-title">鍒樺伐 路 閰氶啗鏍戣剛閰嶄欢浜?/h2>
+        <p class="section-desc">鍗佷簲骞村彧鍋氫竴浠朵簨鈥斺€旀妸閰氶啗鏍戣剛閰嶄欢鍋氬埌鏋佽嚧</p>
+      </div>
+
+      <div class="about-grid">
+        <div style="text-align:center;">
+          <div class="about-avatar">鍒?/div>
+          <div style="margin-top:16px;">
+            <div style="font-weight:700;font-size:1.1rem;color:var(--text);">鍒?(Liu)</div>
+            <div style="color:var(--brand);font-size:0.85rem;font-weight:600;margin-top:4px;">閰氶啗鏍戣剛閰嶄欢 路 鍗佷簲骞?/div>
+            <div style="color:var(--text-muted);font-size:0.82rem;margin-top:2px;">鍗庣幉鏈烘 路 娌冲寳鐪佽　姘村競</div>
+          </div>
+          <div style="margin-top:20px;" class="about-skills">
+            <span class="about-skill">閰氶啗鏍戣剛娉ㄥ</span>
+            <span class="about-skill">妯″叿璁捐</span>
+            <span class="about-skill">鏉愭枡閰嶆柟</span>
+            <span class="about-skill">璐ㄩ噺绠℃帶</span>
+            <span class="about-skill">瀹氬埗鍔犲伐</span>
+            <span class="about-skill">澶栬锤鍑哄彛</span>
+          </div>
+        </div>
+
+        <div class="about-info">
+          <h2>浣犲ソ锛屾垜鏄垬</h2>
+          <div class="about-sub">閰氶啗鏍戣剛閰嶄欢鍒堕€?路 鍗佷簲骞翠粠涓氳€?/div>
+          <p>
+            鎴戝湪娌冲寳鐪佽　姘村競缁忚惀鍗庣幉鏈烘锛屼笓娉ㄩ厷閱涙爲鑴傦紙Bakelite锛夋満姊伴厤浠跺崄浜斿勾銆?
+            浠庢渶鍒濆寰掑埌浠婂ぉ鑳界嫭绔嬪鐞嗘暣濂椾粠鏉愭枡閰嶆柟鍒版ā鍏疯璁″啀鍒伴噺浜у嚭璐х殑鍏ㄦ祦绋嬶紝
+            鎴戣俯杩囩殑鍧戞瘮澶у鏁颁汉澶氥€?
+          </p>
+          <p>
+            杩欎釜鍗氬锛屽氨鏄妸鎴戣繖浜涘勾绉疮鐨勫疄鎴樼粡楠岀郴缁熸暣鐞嗗嚭鏉ワ細
+            浠€涔堟牱鐨勯厷閱涙爲鑴傞厤浠堕€傚悎浠€涔堝伐鍐点€佷笉鍚屾潗鏂欑墝鍙风殑鎬ц兘宸紓銆?
+            妯″叿璁捐涓渶瀹规槗鍑洪棶棰樼殑鐜妭銆佽川妫€鏃跺摢浜涚粏鑺備笉鑳芥斁杩団€︹€?
+            甯屾湜鑳藉府浣犲湪閫夊瀷鍜岄噰璐椂灏戣蛋寮矾銆?
+          </p>
+          <p>
+            宸ュ巶骞翠骇鍚勭被Bakelite閰嶄欢绾?00涓囦欢锛屽嚭鍙ｈ秴杩?0涓浗瀹跺拰鍦板尯銆?
+            濡傛灉浣犳湁瀹氬埗闇€姹傛垨鑰呮妧鏈棶棰橈紝娆㈣繋闅忔椂鑱旂郴銆?
+          </p>
+          <div>
+            <a href="#contact" class="btn-primary" style="margin-top:8px;">鑱旂郴鎴?/a>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top:60px;">
+        <div class="stats-grid">
+          <div class="stat-item">
+            <div class="stat-num">15<span class="unit">骞?/span></div>
+            <div class="stat-label">琛屼笟缁忛獙</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">200<span class="unit">涓?</span></div>
+            <div class="stat-label">骞翠骇閲忥紙浠讹級</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">50<span class="unit">+</span></div>
+            <div class="stat-label">鍑哄彛鍥藉</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">10<span class="unit">绉?/span></div>
+            <div class="stat-label">璇█鏈嶅姟</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?浜у搧灞曠ず 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲 -->
+  <section id="products" class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">浜у搧灞曠ず</span>
+        <h2 class="section-title">缁忓吀浜у搧绯诲垪</h2>
+        <p class="section-desc">瑙勬牸榻愬叏锛屾敮鎸佹寜鍥惧畾鍒跺姞宸?/p>
+      </div>
+
+      <div class="card-grid">
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">01</div>
+          <div class="warm-card-title">鑳舵湪鎵嬭疆</div>
+          <div class="warm-card-text">鏍囧噯DIN 950鎵嬭疆锛岃鏍奸綈鍏紙蠁40~蠁320mm锛夛紝鍙畾鍒跺瓟寰勪笌閿Ы銆傝€愰珮娓┿€佽€愯厫铓€锛岄暱鏈熷湪椋熷搧鏈烘銆佹満搴婅澶囦腑绋冲畾浣跨敤銆?/div>
+          <a href="#" class="warm-card-link" data-product="handwheel">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">02</div>
+          <div class="warm-card-title">鑳舵湪鎶婃墜</div>
+          <div class="warm-card-text">鍦嗗ご鎶婃墜銆侀敟澶存妸鎵嬨€佹槦鍨嬫妸鎵嬶紙AK鍨嬶級鍏ㄧ郴鍒椼€傛敮鎸丮3~M24鍚勭铻虹汗瑙勬牸锛岄潪鏍囧昂瀵告寜鍥惧畾鍒躲€傜粷缂樻€ц兘浼樿秺锛岄€傚悎鐢垫皵璁惧銆?/div>
+          <a href="#" class="warm-card-link" data-product="handle">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">03</div>
+          <div class="warm-card-title">鑳舵湪鎵嬫焺</div>
+          <div class="warm-card-text">鍗佸瓧鎵嬫焺銆佷竴瀛楁墜鏌勩€乀鍨嬫墜鏌勩€傚绉嶈鏍煎彲閫夛紝鑰愮（銆佽€愭补銆佸昂瀵哥ǔ瀹氥€傞暱鏈熶緵璐э紝鍑哄彛鍝佽川绠℃帶锛屾壒娆′竴鑷存€ч珮銆?/div>
+          <a href="#" class="warm-card-link" data-product="lever">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">04</div>
+          <div class="warm-card-title">娌归暅 / 娌规爣</div>
+          <div class="warm-card-text">閽㈠寲鐜荤拑娌圭獥锛岃€愬帇0.5~1.6MPa锛岃€愭俯-20掳C~+120掳C銆傞噾灞炴浣撻噰鐢ㄩ粍閾滄垨涓嶉攬閽紝瀵嗗皝鍙潬銆傞€傚悎鍑忛€熸満銆侀娇杞銆佹恫鍘嬬珯绛夋鼎婊戠郴缁熴€?/div>
+          <a href="#" class="warm-card-link" data-product="oilsight">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">05</div>
+          <div class="warm-card-title">鑳舵湪鏃嬮挳 / 鍒诲害鐩?/div>
+          <div class="warm-card-text">鐢靛櫒寮€鍏虫棆閽€佷华琛ㄥ埢搴︾洏銆傝〃闈㈠瓧绗V鍗板瓧娓呮櫚鑰愮（锛岀粷缂樼瓑绾绾ф垨浠ヤ笂銆傝鏍枷?5~蠁100mm锛屾敮鎸佺壒娈婅姹傚畾鍒躲€?/div>
+          <a href="#" class="warm-card-link" data-product="knob">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card" style="background:linear-gradient(135deg,#f0f4f8,#e8eef4);border:2px solid #1B4F72;">
+          <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+            <div style="width:44px;height:44px;background:#1B4F72;border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+            </div>
+            <div style="font-weight:700;font-size:1.05rem;color:var(--text);">鍏ㄩ儴浜у搧鍥惧唽</div>
+          </div>
+          <div class="warm-card-text">18椤靛畬鏁翠骇鍝佺洰褰曪紝娑电洊鎵嬭疆銆佹妸鎵嬨€佹墜鏌勩€佹补闀溿€佹棆閽瓑鍏ㄧ郴鍒椾骇鍝侀珮娓呭浘鐗囦笌瑙勬牸鍙傛暟銆備笅杞絇DF锛岄殢鏃舵煡闃呫€?/div>
+          <a href="assets/pdf/product-catalog.pdf" target="_blank" class="warm-card-link" style="color:#1B4F72;font-weight:700;">鏌ョ湅浜у搧鍥惧唽 PDF 鈫?/a>
+        </div>
+      </div>
+
+      <div class="warm-card" style="margin-top:32px;padding:32px;text-align:center;">
+        <div style="font-size:1.05rem;font-weight:700;color:var(--text);margin-bottom:10px;">闇€瑕侀潪鏍囧畾鍒讹紵</div>
+        <p style="font-size:0.92rem;color:var(--text-muted);margin-bottom:20px;max-width:500px;margin-left:auto;margin-right:auto;">
+          鍙戞潵浣犵殑鍥剧焊鎴栨牱鍝侀渶姹傦紝鍛婅瘔鎴戞潗鏂欍€佸昂瀵搞€佹暟閲忋€佷氦鏈熻姹傦紝鎴戜滑涓€璧疯瘎浼板彲琛屾€с€?
+          鍗佷簲骞撮厷閱涙爲鑴傞厤浠跺埗閫犵粡楠岋紝甯綘浠庡浘绾稿埌閲忎骇涓€姝ュ埌浣嶃€?
+        </p>
+        <a href="#contact" class="btn-primary">鍙戦€佸畾鍒堕渶姹?/a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?鍗氬鏂囩珷 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Blog Posts</span>
+        <h2 class="section-title">Industry News</h2>
+        <p class="section-desc">Technical articles and industry insights, regularly updated</p>
+      </div>
+
+  <div class="news-grid">
+
+
+
+  </div>
+
+
+    <div class="container">
+      <div class="subscribe-section">
+        <h2>璁㈤槄鏈€鏂拌涓氭礊瀵?/h2>
+        <p>涓嶇兢鍙戙€佷笉楠氭壈锛屾湁浠峰€肩殑琛屼笟鍔ㄦ€佸拰瀹炴垬鎶€鏈枃绔犳墠浼氭帹閫佺粰浣犮€?/p>
+        <form class="subscribe-form" action="#" method="post">
+          <input type="email" placeholder="杈撳叆浣犵殑閭" required aria-label="閭鍦板潃">
+          <button type="submit" class="btn-primary" style="flex-shrink:0;">绔嬪嵆璁㈤槄</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?鑱旂郴鎴戜滑 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <section id="contact" class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">鑱旂郴鎴戜滑</span>
+        <h2 class="section-title">鏈変换浣曢渶姹傦紝娆㈣繋鑱旂郴</h2>
+        <p class="section-desc">浜у搧鍜ㄨ 路 瀹氬埗鎶ヤ环 路 鎶€鏈氦娴?路 鍚堜綔娲借皥</p>
+      </div>
+
+      <div class="card-grid" style="max-width:800px;margin:0 auto;">
+        <div class="warm-card" style="text-align:center;padding:36px;">
+          <div style="font-size:1.6rem;margin-bottom:12px;color:var(--brand);font-weight:800;">@</div>
+          <div class="warm-card-title" style="text-align:center;margin-bottom:8px;">閭</div>
+          <div style="font-size:0.95rem;color:var(--text-muted);word-break:break-all;">
+            <a href="mailto:15503295692@163.com" class="link-glow" style="font-size:1rem;font-weight:600;">15503295692@163.com</a>
+          </div>
+          <div style="font-size:0.82rem;color:var(--text-light);margin-top:6px;">鍥炲閫氬父鍦?4灏忔椂鍐?/div>
+        </div>
+
+        <div class="warm-card" style="text-align:center;padding:36px;">
+          <div style="font-size:1.6rem;margin-bottom:12px;color:var(--brand);font-weight:800;">T</div>
+          <div class="warm-card-title" style="text-align:center;margin-bottom:8px;">鐢佃瘽</div>
+          <div style="font-size:1rem;color:var(--text-muted);">
+            <a href="tel:+8615503295692" class="link-glow" style="font-weight:600;">+86 155 0329 5692</a>
+          </div>
+          <div style="font-size:0.82rem;color:var(--text-light);margin-top:6px;">寰俊鍚屽彿锛屽伐浣滄棩 8:00-18:00</div>
+        </div>
+
+        <div class="warm-card" style="text-align:center;padding:36px;grid-column:1/-1;">
+          <div style="font-size:1.6rem;margin-bottom:12px;color:var(--brand);font-weight:800;">Loc</div>
+          <div class="warm-card-title" style="text-align:center;margin-bottom:8px;">宸ュ巶鍦板潃</div>
+          <div style="font-size:0.95rem;color:var(--text-muted);">
+            娌冲寳鐪佽　姘村競<br>
+            <span style="font-size:0.82rem;color:var(--text-light);">鍗庣幉鏈烘 路 涓撲笟閰氶啗鏍戣剛閰嶄欢鐢熶骇鍘傚</span>
+          </div>
+        </div>
+      </div>
+
+      <div style="text-align:center;margin-top:36px;">
+        <div style="font-size:0.82rem;color:var(--text-light);margin-bottom:12px;">鎴戜滑鎻愪緵浠ヤ笅璇█鏈嶅姟锛?/div>
+        <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:8px;">
+          <span class="tag">绠€浣撲腑鏂?/span>
+          <span class="tag">English</span>
+          <span class="tag">袪褍褋褋泻懈泄</span>
+          <span class="tag">Fran莽ais</span>
+          <span class="tag">Espa帽ol</span>
+          <span class="tag">Italiano</span>
+          <span class="tag">頃滉淡鞏?/span>
+          <span class="tag">鏃ユ湰瑾?/span>
+          <span class="tag">喔犩覆喔┼覆喙勦笚喔?/span>
+          <span class="tag">Ti岷縩g Vi峄噒</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?椤佃剼 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">鍒樼殑鍗氬 路 Bakelite</div>
+          <p class="footer-desc">
+            涓撴敞閰氶啗鏍戣剛(Bakelite)閰嶄欢棰嗗煙锛屽垎浜笓涓氱煡璇嗕笌琛屼笟娲炲療锛屽府鍔╀綘閫夊浜у搧銆侀伩鍧戙€侀檷鏈€?
+          </p>
+          <div class="footer-contact">
+            <a href="mailto:15503295692@163.com">15503295692@163.com</a>
+            <a href="tel:+8615503295692">+86 155 0329 5692</a>
+            <a href="#">娌冲寳鐪佽　姘村競</a>
+          </div>
+        </div>
+
+        <div>
+          <h4>蹇€熷鑸?/h4>
+          <div class="footer-links">
+            <a href="#hero">棣栭〉</a>
+            <a href="#about">鍏充簬鎴?/a>
+            <a href="#products">浜у搧灞曠ず</a>
+            <a href="#news">琛屼笟璧勮</a>
+            <a href="#contact">鑱旂郴鎴戜滑</a>
+          </div>
+        </div>
+
+        <div>
+          <h4>鍒囨崲璇█</h4>
+          <div class="footer-links">
+            <a href="/en/">English</a>
+            <a href="/ru/">袪褍褋褋泻懈泄</a>
+            <a href="/fr/">Fran莽ais</a>
+            <a href="/es/">Espa帽ol</a>
+            <a href="/ja/">鏃ユ湰瑾?/a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <span>漏 2026 鍒樼殑鍗氬 路 Bakelite閰氶啗鏍戣剛閰嶄欢涓撲笟鍗氬</span>
+        <span>鍗庣幉鏈烘 路 15骞撮厷閱涙爲鑴傞厤浠跺埗閫犵粡楠?/span>
+      </div>
+    </div>
+  </footer>
+
+  <button class="back-to-top" aria-label="杩斿洖椤堕儴">鈫?/button>
+
+  <script src="assets/js/main.js"></script>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?浜у搧璇︽儏寮圭獥 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <div id="product-modal" class="product-modal" role="dialog" aria-modal="true" aria-labelledby="modal-product-title" aria-hidden="true">
+    <div class="product-modal-overlay"></div>
+    <div class="product-modal-content">
+      <button class="product-modal-close" aria-label="鍏抽棴">&times;</button>
+      <div class="product-modal-image">
+        <img src="" alt="">
+      </div>
+      <div class="product-modal-header">
+        <div class="product-modal-header-inner">
+          <div class="product-modal-icon"></div>
+          <div>
+            <h2 class="modal-product-title" id="modal-product-title"></h2>
+            <div class="product-modal-subtitle"></div>
+          </div>
+        </div>
+      </div>
+      <div class="product-modal-body">
+        <div class="product-modal-section">
+          <div class="product-modal-section-title">馃搻 瑙勬牸鍙傛暟</div>
+          <table class="product-modal-text" style="width:100%;border-collapse:collapse;margin:0;">
+            <tbody id="modal-specs-body"></tbody>
+          </table>
+        </div>
+        <div class="product-modal-section">
+          <div class="product-modal-section-title">鉁?浜у搧鐗圭偣</div>
+          <div id="modal-features" class="product-modal-text"></div>
+        </div>
+        <div class="product-modal-section">
+          <div class="product-modal-section-title">馃彮 鍏稿瀷搴旂敤</div>
+          <div id="modal-applications"></div>
+        </div>
+        <div class="product-thumbs"></div>
+      </div>
+      <div class="product-modal-cta">
+        <a href="#contact" class="btn-primary" onclick="document.getElementById('product-modal').classList.remove('open');">鑱旂郴鎴戜滑鍜ㄨ璇︽儏</a>
+        <a href="assets/pdf/product-catalog.pdf" target="_blank" class="btn-secondary">涓嬭浇浜у搧鐩綍 PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <script>window.__ARTICLES__ = [{"id": "01", "slug": "phenolic-basics", "title": "閰氶啗鏍戣剛閰嶄欢鍏ラ棬锛氭潗鏂欑壒鎬с€佷紭鍔夸笌搴旂敤鍦烘櫙", "category": "鍏ラ棬鎵嬪唽", "date": "2026-04-10", "excerpt": "閰氶啗鏍戣剛鏄渶鏃╁疄鐜板伐涓氬寲鐨勫悎鎴愰珮鍒嗗瓙鏉愭枡锛屾嫢鏈変紭寮傜殑鑰愮儹銆佺粷缂樸€佽€愮（鐗规€э紝鏄満姊伴厤浠堕鍩熺殑缁忓吀涔嬮€夈€?, "readtime": 10, "href": "posts/zh/posts/zh/01-phenolic-basics.html", "tags": ["閰氶啗鏍戣剛", "鍏ラ棬", "鏉愭枡绉戞櫘"]}, {"id": "02", "slug": "material-selection", "title": "濡備綍涓轰綘鐨勫簲鐢ㄩ€夋嫨鍚堥€傜殑閰氶啗鏍戣剛鍨嬪彿", "category": "閫夊瀷鎸囧崡", "date": "2026-04-12", "excerpt": "PF1銆丳F2銆丳F3鈥﹂厷閱涙爲鑴傚瀷鍙风箒澶氾紝涓嶅悓鍨嬪彿鍦ㄨ€愮儹銆佸己搴︺€佺數鎬ц兘涓婃湁鏄捐憲宸紓锛岄€夐敊鍨嬪彿鐩存帴褰卞搷浜у搧鍙潬鎬с€?, "readtime": 8, "href": "posts/zh/posts/zh/02-material-selection.html", "tags": ["閫夊瀷", "PF鏍戣剛鍨嬪彿", "鏉愭枡瀵规瘮"]}, {"id": "03", "slug": "mold-design", "title": "閰氶啗鏍戣剛娉ㄥ妯″叿璁捐瑕佺偣锛氭祰鍙ｃ€佹祦閬撲笌鍐峰嵈绯荤粺", "category": "鎶€鏈繁娼?, "date": "2026-04-14", "excerpt": "閰氶啗鏍戣剛娴佸姩鎬у樊銆佺儹绋冲畾鎬ч珮锛屽妯″叿璁捐鏈夌壒娈婅姹傘€傛祰鍙ｄ綅缃€佹祦閬撶洿寰勩€佸喎鍗存按閬撳竷灞€閮芥槸鍐冲畾浜у搧鑹巼鐨勫叧閿€?, "readtime": 12, "href": "posts/zh/posts/zh/03-mold-design.html", "tags": ["妯″叿璁捐", "娉ㄥ宸ヨ壓", "鎶€鏈繁娼?]}, {"id": "04", "slug": "quality-control", "title": "閰氶啗鏍戣剛閰嶄欢璐ㄦ鏂规硶锛氬昂瀵搞€佸瑙傘€佸姛鑳戒笁缁村害妫€楠?, "category": "鎶€鏈繁娼?, "date": "2026-04-16", "excerpt": "澶栬缂洪櫡銆佸昂瀵歌秴宸€佸姛鑳藉け鏁堚€斺€旈厷閱涙爲鑴傞厤浠惰川妫€涓夌淮搴﹁瑙ｏ紝寤虹珛鏈夋晥鐨勫嚭鍘傛楠屼綋绯汇€?, "readtime": 8, "href": "posts/zh/posts/zh/04-quality-control.html", "tags": ["璐ㄦ", "璐ㄩ噺鎺у埗", "鎶€鏈繁娼?]}, {"id": "05", "slug": "industry-cases", "title": "閰氶啗鏍戣剛閰嶄欢琛屼笟搴旂敤妗堜緥锛氫粠鐭虫补閽讳簳鍒拌建閬撲氦閫?, "category": "琛屼笟瑙傚療", "date": "2026-04-16", "excerpt": "閰氶啗鏍戣剛閰嶄欢骞挎硾搴旂敤浜庣煶娌广€佸寲宸ャ€佽建閬撲氦閫氥€佸尰鐤楀櫒姊扮瓑棰嗗煙銆傛潵鐪嬪嚑涓湁浠ｈ〃鎬х殑鐪熷疄搴旂敤鍦烘櫙銆?, "readtime": 9, "href": "posts/zh/posts/zh/05-industry-cases.html", "tags": ["琛屼笟妗堜緥", "搴旂敤棰嗗煙", "琛屼笟瑙傚療"]}, {"id": "06", "slug": "custom-process", "title": "闈炴爣瀹氬埗閰氶啗鏍戣剛閰嶄欢锛氬浣曚笌宸ュ巶楂樻晥娌熼€氶渶姹?, "category": "琛屼笟瑙傚療", "date": "2026-04-16", "excerpt": "闈炴爣瀹氬埗鏈€澶х殑鎴愭湰鏄矡閫氥€傚浘绾镐笉瑙勮寖銆佽鏍间笉娓呮櫚鏄欢璇拰杩斿伐鐨勪富瑕佸師鍥犮€傛湰鏂囧垎浜浣曚竴娆¤娓呮闇€姹傘€?, "readtime": 7, "href": "posts/zh/posts/zh/06-custom-process.html", "tags": ["闈炴爣瀹氬埗", "瀹㈡埛娌熼€?, "琛屼笟瑙傚療"]}];</script>
+</body>
+</html<div class="news-grid">
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Getting Started</span>
+      <span class="news-card-date">2026-04-10</span>
+    </div>
+    <h3 class="news-card-title">Getting Started with Phenolic Resin: Material Properties and Applications</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 10min →</span>
+  </div>
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Selection Guide</span>
+      <span class="news-card-date">2026-04-12</span>
+    </div>
+    <h3 class="news-card-title">How to Choose the Right Phenolic Resin Grade for Your Application</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 8min →</span>
+  </div>
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Technical</span>
+      <span class="news-card-date">2026-04-14</span>
+    </div>
+    <h3 class="news-card-title">Phenolic Resin Injection Mold Design: Gates, Runners and Cooling</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 12min →</span>
+  </div>
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Technical</span>
+      <span class="news-card-date">2026-04-16</span>
+    </div>
+    <h3 class="news-card-title">Quality Control for Phenolic Resin Parts: Three-Dimension Inspection</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 8min →</span>
+  </div>
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Industry</span>
+      <span class="news-card-date">2026-04-16</span>
+    </div>
+    <h3 class="news-card-title">Application Cases: From Oil Drilling to Rail Transit</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 9min →</span>
+  </div>
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Industry</span>
+      <span class="news-card-date">2026-04-16</span>
+    </div>
+    <h3 class="news-card-title">Custom Phenolic Resin Parts: How to Communicate with Factories</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 7min →</span>
+  </div>
+
+</div>
+
+        <div class="navbar-right">
+          <div class="lang-switcher" aria-label="璇█鍒囨崲"></div>
+          <button class="hamburger" aria-label="鎵撳紑鑿滃崟" aria-expanded="false">
+            <span></span><span></span><span></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="mobile-nav" role="menu">
+      <a href="#hero">棣栭〉</a>
+      <a href="#about">鍏充簬鎴?/a>
+      <a href="#products">浜у搧灞曠ず</a>
+      <a href="pages/zh/blog.html">鍗氬</a>
+      <a href="#contact">鑱旂郴鎴戜滑</a>
+    </div>
+  </nav>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?Hero 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <section id="hero" class="hero">
+    <div class="container">
+      <div class="hero-inner">
+
+        <div class="hero-content">
+          <span class="hero-badge">閰氶啗鏍戣剛閰嶄欢 路 鍗佷簲骞翠笓涓氱粡楠?/span>
+          <h1 class="hero-title">
+            鍗佷簲骞村尃蹇冿紝<br>
+            <span class="highlight">涓撴敞閰氶啗鏍戣剛閰嶄欢</span>
+          </h1>
+          <p class="hero-desc">
+            浠庢潗鏂欓厤鏂瑰埌妯″叿璁捐锛屼粠鐢熶骇宸ヨ壓鍒拌川閲忕鎺р€斺€斿垬宸ュ垎浜崄浜斿勾 Bakelite 閰氶啗鏍戣剛閰嶄欢鍒堕€犵粡楠岋紝甯姪浣犻€夊浜у搧銆侀伩鍧戙€侀檷鏈€?
+          </p>
+          <div class="hero-actions">
+            <a href="#products" class="btn-primary">鎺㈢储浜у搧涓栫晫</a>
+            <a href="#about" class="btn-secondary">浜嗚В鏇村</a>
+          </div>
+        </div>
+
+        <div class="hero-visual">
+          <div class="hero-card-row">
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">15<span style="font-size:0.8em;">骞?/span></div>
+                <div class="hero-stat-label">琛屼笟娣辫€?/div>
+              </div>
+            </div>
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">10<span style="font-size:0.8em;">+</span></div>
+                <div class="hero-stat-label">璇瑕嗙洊</div>
+              </div>
+            </div>
+          </div>
+          <div class="hero-card-row">
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">200<span style="font-size:0.8em;">涓?/span></div>
+                <div class="hero-stat-label">骞村嚭鍙ｉ噺</div>
+              </div>
+            </div>
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">50<span style="font-size:0.8em;">+</span></div>
+                <div class="hero-stat-label">鍑哄彛鍥藉</div>
+              </div>
+            </div>
+          </div>
+          <div class="hero-card" style="padding:16px 20px;">
+            <div class="hero-card-label">涓撲笟棰嗗煙</div>
+            <div class="hero-card-text">閰氶啗鏍戣剛娉ㄥ 路 鏉愭枡閰嶆柟 路 妯″叿璁捐 路 灏哄鍏樊鎺у埗 路 鍑哄巶璐ㄦ鍏ㄦ祦绋?/div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?鍏充簬鎴?鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <section id="about" class="section">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">鍏充簬鎴?/span>
+        <h2 class="section-title">鍒樺伐 路 閰氶啗鏍戣剛閰嶄欢浜?/h2>
+        <p class="section-desc">鍗佷簲骞村彧鍋氫竴浠朵簨鈥斺€旀妸閰氶啗鏍戣剛閰嶄欢鍋氬埌鏋佽嚧</p>
+      </div>
+
+      <div class="about-grid">
+        <div style="text-align:center;">
+          <div class="about-avatar">鍒?/div>
+          <div style="margin-top:16px;">
+            <div style="font-weight:700;font-size:1.1rem;color:var(--text);">鍒?(Liu)</div>
+            <div style="color:var(--brand);font-size:0.85rem;font-weight:600;margin-top:4px;">閰氶啗鏍戣剛閰嶄欢 路 鍗佷簲骞?/div>
+            <div style="color:var(--text-muted);font-size:0.82rem;margin-top:2px;">鍗庣幉鏈烘 路 娌冲寳鐪佽　姘村競</div>
+          </div>
+          <div style="margin-top:20px;" class="about-skills">
+            <span class="about-skill">閰氶啗鏍戣剛娉ㄥ</span>
+            <span class="about-skill">妯″叿璁捐</span>
+            <span class="about-skill">鏉愭枡閰嶆柟</span>
+            <span class="about-skill">璐ㄩ噺绠℃帶</span>
+            <span class="about-skill">瀹氬埗鍔犲伐</span>
+            <span class="about-skill">澶栬锤鍑哄彛</span>
+          </div>
+        </div>
+
+        <div class="about-info">
+          <h2>浣犲ソ锛屾垜鏄垬</h2>
+          <div class="about-sub">閰氶啗鏍戣剛閰嶄欢鍒堕€?路 鍗佷簲骞翠粠涓氳€?/div>
+          <p>
+            鎴戝湪娌冲寳鐪佽　姘村競缁忚惀鍗庣幉鏈烘锛屼笓娉ㄩ厷閱涙爲鑴傦紙Bakelite锛夋満姊伴厤浠跺崄浜斿勾銆?
+            浠庢渶鍒濆寰掑埌浠婂ぉ鑳界嫭绔嬪鐞嗘暣濂椾粠鏉愭枡閰嶆柟鍒版ā鍏疯璁″啀鍒伴噺浜у嚭璐х殑鍏ㄦ祦绋嬶紝
+            鎴戣俯杩囩殑鍧戞瘮澶у鏁颁汉澶氥€?
+          </p>
+          <p>
+            杩欎釜鍗氬锛屽氨鏄妸鎴戣繖浜涘勾绉疮鐨勫疄鎴樼粡楠岀郴缁熸暣鐞嗗嚭鏉ワ細
+            浠€涔堟牱鐨勯厷閱涙爲鑴傞厤浠堕€傚悎浠€涔堝伐鍐点€佷笉鍚屾潗鏂欑墝鍙风殑鎬ц兘宸紓銆?
+            妯″叿璁捐涓渶瀹规槗鍑洪棶棰樼殑鐜妭銆佽川妫€鏃跺摢浜涚粏鑺備笉鑳芥斁杩団€︹€?
+            甯屾湜鑳藉府浣犲湪閫夊瀷鍜岄噰璐椂灏戣蛋寮矾銆?
+          </p>
+          <p>
+            宸ュ巶骞翠骇鍚勭被Bakelite閰嶄欢绾?00涓囦欢锛屽嚭鍙ｈ秴杩?0涓浗瀹跺拰鍦板尯銆?
+            濡傛灉浣犳湁瀹氬埗闇€姹傛垨鑰呮妧鏈棶棰橈紝娆㈣繋闅忔椂鑱旂郴銆?
+          </p>
+          <div>
+            <a href="#contact" class="btn-primary" style="margin-top:8px;">鑱旂郴鎴?/a>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top:60px;">
+        <div class="stats-grid">
+          <div class="stat-item">
+            <div class="stat-num">15<span class="unit">骞?/span></div>
+            <div class="stat-label">琛屼笟缁忛獙</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">200<span class="unit">涓?</span></div>
+            <div class="stat-label">骞翠骇閲忥紙浠讹級</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">50<span class="unit">+</span></div>
+            <div class="stat-label">鍑哄彛鍥藉</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">10<span class="unit">绉?/span></div>
+            <div class="stat-label">璇█鏈嶅姟</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?浜у搧灞曠ず 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲 -->
+  <section id="products" class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">浜у搧灞曠ず</span>
+        <h2 class="section-title">缁忓吀浜у搧绯诲垪</h2>
+        <p class="section-desc">瑙勬牸榻愬叏锛屾敮鎸佹寜鍥惧畾鍒跺姞宸?/p>
+      </div>
+
+      <div class="card-grid">
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">01</div>
+          <div class="warm-card-title">鑳舵湪鎵嬭疆</div>
+          <div class="warm-card-text">鏍囧噯DIN 950鎵嬭疆锛岃鏍奸綈鍏紙蠁40~蠁320mm锛夛紝鍙畾鍒跺瓟寰勪笌閿Ы銆傝€愰珮娓┿€佽€愯厫铓€锛岄暱鏈熷湪椋熷搧鏈烘銆佹満搴婅澶囦腑绋冲畾浣跨敤銆?/div>
+          <a href="#" class="warm-card-link" data-product="handwheel">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">02</div>
+          <div class="warm-card-title">鑳舵湪鎶婃墜</div>
+          <div class="warm-card-text">鍦嗗ご鎶婃墜銆侀敟澶存妸鎵嬨€佹槦鍨嬫妸鎵嬶紙AK鍨嬶級鍏ㄧ郴鍒椼€傛敮鎸丮3~M24鍚勭铻虹汗瑙勬牸锛岄潪鏍囧昂瀵告寜鍥惧畾鍒躲€傜粷缂樻€ц兘浼樿秺锛岄€傚悎鐢垫皵璁惧銆?/div>
+          <a href="#" class="warm-card-link" data-product="handle">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">03</div>
+          <div class="warm-card-title">鑳舵湪鎵嬫焺</div>
+          <div class="warm-card-text">鍗佸瓧鎵嬫焺銆佷竴瀛楁墜鏌勩€乀鍨嬫墜鏌勩€傚绉嶈鏍煎彲閫夛紝鑰愮（銆佽€愭补銆佸昂瀵哥ǔ瀹氥€傞暱鏈熶緵璐э紝鍑哄彛鍝佽川绠℃帶锛屾壒娆′竴鑷存€ч珮銆?/div>
+          <a href="#" class="warm-card-link" data-product="lever">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">04</div>
+          <div class="warm-card-title">娌归暅 / 娌规爣</div>
+          <div class="warm-card-text">閽㈠寲鐜荤拑娌圭獥锛岃€愬帇0.5~1.6MPa锛岃€愭俯-20掳C~+120掳C銆傞噾灞炴浣撻噰鐢ㄩ粍閾滄垨涓嶉攬閽紝瀵嗗皝鍙潬銆傞€傚悎鍑忛€熸満銆侀娇杞銆佹恫鍘嬬珯绛夋鼎婊戠郴缁熴€?/div>
+          <a href="#" class="warm-card-link" data-product="oilsight">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">05</div>
+          <div class="warm-card-title">鑳舵湪鏃嬮挳 / 鍒诲害鐩?/div>
+          <div class="warm-card-text">鐢靛櫒寮€鍏虫棆閽€佷华琛ㄥ埢搴︾洏銆傝〃闈㈠瓧绗V鍗板瓧娓呮櫚鑰愮（锛岀粷缂樼瓑绾绾ф垨浠ヤ笂銆傝鏍枷?5~蠁100mm锛屾敮鎸佺壒娈婅姹傚畾鍒躲€?/div>
+          <a href="#" class="warm-card-link" data-product="knob">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card" style="background:linear-gradient(135deg,#f0f4f8,#e8eef4);border:2px solid #1B4F72;">
+          <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+            <div style="width:44px;height:44px;background:#1B4F72;border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+            </div>
+            <div style="font-weight:700;font-size:1.05rem;color:var(--text);">鍏ㄩ儴浜у搧鍥惧唽</div>
+          </div>
+          <div class="warm-card-text">18椤靛畬鏁翠骇鍝佺洰褰曪紝娑电洊鎵嬭疆銆佹妸鎵嬨€佹墜鏌勩€佹补闀溿€佹棆閽瓑鍏ㄧ郴鍒椾骇鍝侀珮娓呭浘鐗囦笌瑙勬牸鍙傛暟銆備笅杞絇DF锛岄殢鏃舵煡闃呫€?/div>
+          <a href="assets/pdf/product-catalog.pdf" target="_blank" class="warm-card-link" style="color:#1B4F72;font-weight:700;">鏌ョ湅浜у搧鍥惧唽 PDF 鈫?/a>
+        </div>
+      </div>
+
+      <div class="warm-card" style="margin-top:32px;padding:32px;text-align:center;">
+        <div style="font-size:1.05rem;font-weight:700;color:var(--text);margin-bottom:10px;">闇€瑕侀潪鏍囧畾鍒讹紵</div>
+        <p style="font-size:0.92rem;color:var(--text-muted);margin-bottom:20px;max-width:500px;margin-left:auto;margin-right:auto;">
+          鍙戞潵浣犵殑鍥剧焊鎴栨牱鍝侀渶姹傦紝鍛婅瘔鎴戞潗鏂欍€佸昂瀵搞€佹暟閲忋€佷氦鏈熻姹傦紝鎴戜滑涓€璧疯瘎浼板彲琛屾€с€?
+          鍗佷簲骞撮厷閱涙爲鑴傞厤浠跺埗閫犵粡楠岋紝甯綘浠庡浘绾稿埌閲忎骇涓€姝ュ埌浣嶃€?
+        </p>
+        <a href="#contact" class="btn-primary">鍙戦€佸畾鍒堕渶姹?/a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?鍗氬鏂囩珷 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Blog Posts</span>
+        <h2 class="section-title">Industry News</h2>
+        <p class="section-desc">Technical articles and industry insights, regularly updated</p>
+      </div>
+
+  <div class="news-grid">
+
+
+
+  </div>
+
+
+    <div class="container">
+      <div class="subscribe-section">
+        <h2>璁㈤槄鏈€鏂拌涓氭礊瀵?/h2>
+        <p>涓嶇兢鍙戙€佷笉楠氭壈锛屾湁浠峰€肩殑琛屼笟鍔ㄦ€佸拰瀹炴垬鎶€鏈枃绔犳墠浼氭帹閫佺粰浣犮€?/p>
+        <form class="subscribe-form" action="#" method="post">
+          <input type="email" placeholder="杈撳叆浣犵殑閭" required aria-label="閭鍦板潃">
+          <button type="submit" class="btn-primary" style="flex-shrink:0;">绔嬪嵆璁㈤槄</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?鑱旂郴鎴戜滑 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <section id="contact" class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">鑱旂郴鎴戜滑</span>
+        <h2 class="section-title">鏈変换浣曢渶姹傦紝娆㈣繋鑱旂郴</h2>
+        <p class="section-desc">浜у搧鍜ㄨ 路 瀹氬埗鎶ヤ环 路 鎶€鏈氦娴?路 鍚堜綔娲借皥</p>
+      </div>
+
+      <div class="card-grid" style="max-width:800px;margin:0 auto;">
+        <div class="warm-card" style="text-align:center;padding:36px;">
+          <div style="font-size:1.6rem;margin-bottom:12px;color:var(--brand);font-weight:800;">@</div>
+          <div class="warm-card-title" style="text-align:center;margin-bottom:8px;">閭</div>
+          <div style="font-size:0.95rem;color:var(--text-muted);word-break:break-all;">
+            <a href="mailto:15503295692@163.com" class="link-glow" style="font-size:1rem;font-weight:600;">15503295692@163.com</a>
+          </div>
+          <div style="font-size:0.82rem;color:var(--text-light);margin-top:6px;">鍥炲閫氬父鍦?4灏忔椂鍐?/div>
+        </div>
+
+        <div class="warm-card" style="text-align:center;padding:36px;">
+          <div style="font-size:1.6rem;margin-bottom:12px;color:var(--brand);font-weight:800;">T</div>
+          <div class="warm-card-title" style="text-align:center;margin-bottom:8px;">鐢佃瘽</div>
+          <div style="font-size:1rem;color:var(--text-muted);">
+            <a href="tel:+8615503295692" class="link-glow" style="font-weight:600;">+86 155 0329 5692</a>
+          </div>
+          <div style="font-size:0.82rem;color:var(--text-light);margin-top:6px;">寰俊鍚屽彿锛屽伐浣滄棩 8:00-18:00</div>
+        </div>
+
+        <div class="warm-card" style="text-align:center;padding:36px;grid-column:1/-1;">
+          <div style="font-size:1.6rem;margin-bottom:12px;color:var(--brand);font-weight:800;">Loc</div>
+          <div class="warm-card-title" style="text-align:center;margin-bottom:8px;">宸ュ巶鍦板潃</div>
+          <div style="font-size:0.95rem;color:var(--text-muted);">
+            娌冲寳鐪佽　姘村競<br>
+            <span style="font-size:0.82rem;color:var(--text-light);">鍗庣幉鏈烘 路 涓撲笟閰氶啗鏍戣剛閰嶄欢鐢熶骇鍘傚</span>
+          </div>
+        </div>
+      </div>
+
+      <div style="text-align:center;margin-top:36px;">
+        <div style="font-size:0.82rem;color:var(--text-light);margin-bottom:12px;">鎴戜滑鎻愪緵浠ヤ笅璇█鏈嶅姟锛?/div>
+        <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:8px;">
+          <span class="tag">绠€浣撲腑鏂?/span>
+          <span class="tag">English</span>
+          <span class="tag">袪褍褋褋泻懈泄</span>
+          <span class="tag">Fran莽ais</span>
+          <span class="tag">Espa帽ol</span>
+          <span class="tag">Italiano</span>
+          <span class="tag">頃滉淡鞏?/span>
+          <span class="tag">鏃ユ湰瑾?/span>
+          <span class="tag">喔犩覆喔┼覆喙勦笚喔?/span>
+          <span class="tag">Ti岷縩g Vi峄噒</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?椤佃剼 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">鍒樼殑鍗氬 路 Bakelite</div>
+          <p class="footer-desc">
+            涓撴敞閰氶啗鏍戣剛(Bakelite)閰嶄欢棰嗗煙锛屽垎浜笓涓氱煡璇嗕笌琛屼笟娲炲療锛屽府鍔╀綘閫夊浜у搧銆侀伩鍧戙€侀檷鏈€?
+          </p>
+          <div class="footer-contact">
+            <a href="mailto:15503295692@163.com">15503295692@163.com</a>
+            <a href="tel:+8615503295692">+86 155 0329 5692</a>
+            <a href="#">娌冲寳鐪佽　姘村競</a>
+          </div>
+        </div>
+
+        <div>
+          <h4>蹇€熷鑸?/h4>
+          <div class="footer-links">
+            <a href="#hero">棣栭〉</a>
+            <a href="#about">鍏充簬鎴?/a>
+            <a href="#products">浜у搧灞曠ず</a>
+            <a href="#news">琛屼笟璧勮</a>
+            <a href="#contact">鑱旂郴鎴戜滑</a>
+          </div>
+        </div>
+
+        <div>
+          <h4>鍒囨崲璇█</h4>
+          <div class="footer-links">
+            <a href="/en/">English</a>
+            <a href="/ru/">袪褍褋褋泻懈泄</a>
+            <a href="/fr/">Fran莽ais</a>
+            <a href="/es/">Espa帽ol</a>
+            <a href="/ja/">鏃ユ湰瑾?/a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <span>漏 2026 鍒樼殑鍗氬 路 Bakelite閰氶啗鏍戣剛閰嶄欢涓撲笟鍗氬</span>
+        <span>鍗庣幉鏈烘 路 15骞撮厷閱涙爲鑴傞厤浠跺埗閫犵粡楠?/span>
+      </div>
+    </div>
+  </footer>
+
+  <button class="back-to-top" aria-label="杩斿洖椤堕儴">鈫?/button>
+
+  <script src="assets/js/main.js"></script>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?浜у搧璇︽儏寮圭獥 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <div id="product-modal" class="product-modal" role="dialog" aria-modal="true" aria-labelledby="modal-product-title" aria-hidden="true">
+    <div class="product-modal-overlay"></div>
+    <div class="product-modal-content">
+      <button class="product-modal-close" aria-label="鍏抽棴">&times;</button>
+      <div class="product-modal-image">
+        <img src="" alt="">
+      </div>
+      <div class="product-modal-header">
+        <div class="product-modal-header-inner">
+          <div class="product-modal-icon"></div>
+          <div>
+            <h2 class="modal-product-title" id="modal-product-title"></h2>
+            <div class="product-modal-subtitle"></div>
+          </div>
+        </div>
+      </div>
+      <div class="product-modal-body">
+        <div class="product-modal-section">
+          <div class="product-modal-section-title">馃搻 瑙勬牸鍙傛暟</div>
+          <table class="product-modal-text" style="width:100%;border-collapse:collapse;margin:0;">
+            <tbody id="modal-specs-body"></tbody>
+          </table>
+        </div>
+        <div class="product-modal-section">
+          <div class="product-modal-section-title">鉁?浜у搧鐗圭偣</div>
+          <div id="modal-features" class="product-modal-text"></div>
+        </div>
+        <div class="product-modal-section">
+          <div class="product-modal-section-title">馃彮 鍏稿瀷搴旂敤</div>
+          <div id="modal-applications"></div>
+        </div>
+        <div class="product-thumbs"></div>
+      </div>
+      <div class="product-modal-cta">
+        <a href="#contact" class="btn-primary" onclick="document.getElementById('product-modal').classList.remove('open');">鑱旂郴鎴戜滑鍜ㄨ璇︽儏</a>
+        <a href="assets/pdf/product-catalog.pdf" target="_blank" class="btn-secondary">涓嬭浇浜у搧鐩綍 PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <script>window.__ARTICLES__ = [{"id": "01", "slug": "phenolic-basics", "title": "閰氶啗鏍戣剛閰嶄欢鍏ラ棬锛氭潗鏂欑壒鎬с€佷紭鍔夸笌搴旂敤鍦烘櫙", "category": "鍏ラ棬鎵嬪唽", "date": "2026-04-10", "excerpt": "閰氶啗鏍戣剛鏄渶鏃╁疄鐜板伐涓氬寲鐨勫悎鎴愰珮鍒嗗瓙鏉愭枡锛屾嫢鏈変紭寮傜殑鑰愮儹銆佺粷缂樸€佽€愮（鐗规€э紝鏄満姊伴厤浠堕鍩熺殑缁忓吀涔嬮€夈€?, "readtime": 10, "href": "posts/zh/posts/zh/01-phenolic-basics.html", "tags": ["閰氶啗鏍戣剛", "鍏ラ棬", "鏉愭枡绉戞櫘"]}, {"id": "02", "slug": "material-selection", "title": "濡備綍涓轰綘鐨勫簲鐢ㄩ€夋嫨鍚堥€傜殑閰氶啗鏍戣剛鍨嬪彿", "category": "閫夊瀷鎸囧崡", "date": "2026-04-12", "excerpt": "PF1銆丳F2銆丳F3鈥﹂厷閱涙爲鑴傚瀷鍙风箒澶氾紝涓嶅悓鍨嬪彿鍦ㄨ€愮儹銆佸己搴︺€佺數鎬ц兘涓婃湁鏄捐憲宸紓锛岄€夐敊鍨嬪彿鐩存帴褰卞搷浜у搧鍙潬鎬с€?, "readtime": 8, "href": "posts/zh/posts/zh/02-material-selection.html", "tags": ["閫夊瀷", "PF鏍戣剛鍨嬪彿", "鏉愭枡瀵规瘮"]}, {"id": "03", "slug": "mold-design", "title": "閰氶啗鏍戣剛娉ㄥ妯″叿璁捐瑕佺偣锛氭祰鍙ｃ€佹祦閬撲笌鍐峰嵈绯荤粺", "category": "鎶€鏈繁娼?, "date": "2026-04-14", "excerpt": "閰氶啗鏍戣剛娴佸姩鎬у樊銆佺儹绋冲畾鎬ч珮锛屽妯″叿璁捐鏈夌壒娈婅姹傘€傛祰鍙ｄ綅缃€佹祦閬撶洿寰勩€佸喎鍗存按閬撳竷灞€閮芥槸鍐冲畾浜у搧鑹巼鐨勫叧閿€?, "readtime": 12, "href": "posts/zh/posts/zh/03-mold-design.html", "tags": ["妯″叿璁捐", "娉ㄥ宸ヨ壓", "鎶€鏈繁娼?]}, {"id": "04", "slug": "quality-control", "title": "閰氶啗鏍戣剛閰嶄欢璐ㄦ鏂规硶锛氬昂瀵搞€佸瑙傘€佸姛鑳戒笁缁村害妫€楠?, "category": "鎶€鏈繁娼?, "date": "2026-04-16", "excerpt": "澶栬缂洪櫡銆佸昂瀵歌秴宸€佸姛鑳藉け鏁堚€斺€旈厷閱涙爲鑴傞厤浠惰川妫€涓夌淮搴﹁瑙ｏ紝寤虹珛鏈夋晥鐨勫嚭鍘傛楠屼綋绯汇€?, "readtime": 8, "href": "posts/zh/posts/zh/04-quality-control.html", "tags": ["璐ㄦ", "璐ㄩ噺鎺у埗", "鎶€鏈繁娼?]}, {"id": "05", "slug": "industry-cases", "title": "閰氶啗鏍戣剛閰嶄欢琛屼笟搴旂敤妗堜緥锛氫粠鐭虫补閽讳簳鍒拌建閬撲氦閫?, "category": "琛屼笟瑙傚療", "date": "2026-04-16", "excerpt": "閰氶啗鏍戣剛閰嶄欢骞挎硾搴旂敤浜庣煶娌广€佸寲宸ャ€佽建閬撲氦閫氥€佸尰鐤楀櫒姊扮瓑棰嗗煙銆傛潵鐪嬪嚑涓湁浠ｈ〃鎬х殑鐪熷疄搴旂敤鍦烘櫙銆?, "readtime": 9, "href": "posts/zh/posts/zh/05-industry-cases.html", "tags": ["琛屼笟妗堜緥", "搴旂敤棰嗗煙", "琛屼笟瑙傚療"]}, {"id": "06", "slug": "custom-process", "title": "闈炴爣瀹氬埗閰氶啗鏍戣剛閰嶄欢锛氬浣曚笌宸ュ巶楂樻晥娌熼€氶渶姹?, "category": "琛屼笟瑙傚療", "date": "2026-04-16", "excerpt": "闈炴爣瀹氬埗鏈€澶х殑鎴愭湰鏄矡閫氥€傚浘绾镐笉瑙勮寖銆佽鏍间笉娓呮櫚鏄欢璇拰杩斿伐鐨勪富瑕佸師鍥犮€傛湰鏂囧垎浜浣曚竴娆¤娓呮闇€姹傘€?, "readtime": 7, "href": "posts/zh/posts/zh/06-custom-process.html", "tags": ["闈炴爣瀹氬埗", "瀹㈡埛娌熼€?, "琛屼笟瑙傚療"]}];</script>
+</body>
+</html<div class="news-grid">
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Getting Started</span>
+      <span class="news-card-date">2026-04-10</span>
+    </div>
+    <h3 class="news-card-title">Getting Started with Phenolic Resin: Material Properties and Applications</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 10min →</span>
+  </div>
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Selection Guide</span>
+      <span class="news-card-date">2026-04-12</span>
+    </div>
+    <h3 class="news-card-title">How to Choose the Right Phenolic Resin Grade for Your Application</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 8min →</span>
+  </div>
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Technical</span>
+      <span class="news-card-date">2026-04-14</span>
+    </div>
+    <h3 class="news-card-title">Phenolic Resin Injection Mold Design: Gates, Runners and Cooling</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 12min →</span>
+  </div>
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Technical</span>
+      <span class="news-card-date">2026-04-16</span>
+    </div>
+    <h3 class="news-card-title">Quality Control for Phenolic Resin Parts: Three-Dimension Inspection</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 8min →</span>
+  </div>
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Industry</span>
+      <span class="news-card-date">2026-04-16</span>
+    </div>
+    <h3 class="news-card-title">Application Cases: From Oil Drilling to Rail Transit</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 9min →</span>
+  </div>
+
+  <div class="news-card news-card-disabled">
+    <div class="news-card-meta">
+      <span class="news-card-category">Industry</span>
+      <span class="news-card-date">2026-04-16</span>
+    </div>
+    <h3 class="news-card-title">Custom Phenolic Resin Parts: How to Communicate with Factories</h3>
+    <p class="news-card-excerpt"> </p>
+    <span class="news-card-cta">Read 7min →</span>
+  </div>
+
+</div>
+
+        <div class="navbar-right">
+          <div class="lang-switcher" aria-label="璇█鍒囨崲"></div>
+          <button class="hamburger" aria-label="鎵撳紑鑿滃崟" aria-expanded="false">
+            <span></span><span></span><span></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="mobile-nav" role="menu">
+      <a href="#hero">棣栭〉</a>
+      <a href="#about">鍏充簬鎴?/a>
+      <a href="#products">浜у搧灞曠ず</a>
+      <a href="pages/zh/blog.html">鍗氬</a>
+      <a href="#contact">鑱旂郴鎴戜滑</a>
+    </div>
+  </nav>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?Hero 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <section id="hero" class="hero">
+    <div class="container">
+      <div class="hero-inner">
+
+        <div class="hero-content">
+          <span class="hero-badge">閰氶啗鏍戣剛閰嶄欢 路 鍗佷簲骞翠笓涓氱粡楠?/span>
+          <h1 class="hero-title">
+            鍗佷簲骞村尃蹇冿紝<br>
+            <span class="highlight">涓撴敞閰氶啗鏍戣剛閰嶄欢</span>
+          </h1>
+          <p class="hero-desc">
+            浠庢潗鏂欓厤鏂瑰埌妯″叿璁捐锛屼粠鐢熶骇宸ヨ壓鍒拌川閲忕鎺р€斺€斿垬宸ュ垎浜崄浜斿勾 Bakelite 閰氶啗鏍戣剛閰嶄欢鍒堕€犵粡楠岋紝甯姪浣犻€夊浜у搧銆侀伩鍧戙€侀檷鏈€?
+          </p>
+          <div class="hero-actions">
+            <a href="#products" class="btn-primary">鎺㈢储浜у搧涓栫晫</a>
+            <a href="#about" class="btn-secondary">浜嗚В鏇村</a>
+          </div>
+        </div>
+
+        <div class="hero-visual">
+          <div class="hero-card-row">
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">15<span style="font-size:0.8em;">骞?/span></div>
+                <div class="hero-stat-label">琛屼笟娣辫€?/div>
+              </div>
+            </div>
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">10<span style="font-size:0.8em;">+</span></div>
+                <div class="hero-stat-label">璇瑕嗙洊</div>
+              </div>
+            </div>
+          </div>
+          <div class="hero-card-row">
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">200<span style="font-size:0.8em;">涓?/span></div>
+                <div class="hero-stat-label">骞村嚭鍙ｉ噺</div>
+              </div>
+            </div>
+            <div class="hero-stat">
+              <div>
+                <div class="hero-stat-num">50<span style="font-size:0.8em;">+</span></div>
+                <div class="hero-stat-label">鍑哄彛鍥藉</div>
+              </div>
+            </div>
+          </div>
+          <div class="hero-card" style="padding:16px 20px;">
+            <div class="hero-card-label">涓撲笟棰嗗煙</div>
+            <div class="hero-card-text">閰氶啗鏍戣剛娉ㄥ 路 鏉愭枡閰嶆柟 路 妯″叿璁捐 路 灏哄鍏樊鎺у埗 路 鍑哄巶璐ㄦ鍏ㄦ祦绋?/div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?鍏充簬鎴?鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <section id="about" class="section">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">鍏充簬鎴?/span>
+        <h2 class="section-title">鍒樺伐 路 閰氶啗鏍戣剛閰嶄欢浜?/h2>
+        <p class="section-desc">鍗佷簲骞村彧鍋氫竴浠朵簨鈥斺€旀妸閰氶啗鏍戣剛閰嶄欢鍋氬埌鏋佽嚧</p>
+      </div>
+
+      <div class="about-grid">
+        <div style="text-align:center;">
+          <div class="about-avatar">鍒?/div>
+          <div style="margin-top:16px;">
+            <div style="font-weight:700;font-size:1.1rem;color:var(--text);">鍒?(Liu)</div>
+            <div style="color:var(--brand);font-size:0.85rem;font-weight:600;margin-top:4px;">閰氶啗鏍戣剛閰嶄欢 路 鍗佷簲骞?/div>
+            <div style="color:var(--text-muted);font-size:0.82rem;margin-top:2px;">鍗庣幉鏈烘 路 娌冲寳鐪佽　姘村競</div>
+          </div>
+          <div style="margin-top:20px;" class="about-skills">
+            <span class="about-skill">閰氶啗鏍戣剛娉ㄥ</span>
+            <span class="about-skill">妯″叿璁捐</span>
+            <span class="about-skill">鏉愭枡閰嶆柟</span>
+            <span class="about-skill">璐ㄩ噺绠℃帶</span>
+            <span class="about-skill">瀹氬埗鍔犲伐</span>
+            <span class="about-skill">澶栬锤鍑哄彛</span>
+          </div>
+        </div>
+
+        <div class="about-info">
+          <h2>浣犲ソ锛屾垜鏄垬</h2>
+          <div class="about-sub">閰氶啗鏍戣剛閰嶄欢鍒堕€?路 鍗佷簲骞翠粠涓氳€?/div>
+          <p>
+            鎴戝湪娌冲寳鐪佽　姘村競缁忚惀鍗庣幉鏈烘锛屼笓娉ㄩ厷閱涙爲鑴傦紙Bakelite锛夋満姊伴厤浠跺崄浜斿勾銆?
+            浠庢渶鍒濆寰掑埌浠婂ぉ鑳界嫭绔嬪鐞嗘暣濂椾粠鏉愭枡閰嶆柟鍒版ā鍏疯璁″啀鍒伴噺浜у嚭璐х殑鍏ㄦ祦绋嬶紝
+            鎴戣俯杩囩殑鍧戞瘮澶у鏁颁汉澶氥€?
+          </p>
+          <p>
+            杩欎釜鍗氬锛屽氨鏄妸鎴戣繖浜涘勾绉疮鐨勫疄鎴樼粡楠岀郴缁熸暣鐞嗗嚭鏉ワ細
+            浠€涔堟牱鐨勯厷閱涙爲鑴傞厤浠堕€傚悎浠€涔堝伐鍐点€佷笉鍚屾潗鏂欑墝鍙风殑鎬ц兘宸紓銆?
+            妯″叿璁捐涓渶瀹规槗鍑洪棶棰樼殑鐜妭銆佽川妫€鏃跺摢浜涚粏鑺備笉鑳芥斁杩団€︹€?
+            甯屾湜鑳藉府浣犲湪閫夊瀷鍜岄噰璐椂灏戣蛋寮矾銆?
+          </p>
+          <p>
+            宸ュ巶骞翠骇鍚勭被Bakelite閰嶄欢绾?00涓囦欢锛屽嚭鍙ｈ秴杩?0涓浗瀹跺拰鍦板尯銆?
+            濡傛灉浣犳湁瀹氬埗闇€姹傛垨鑰呮妧鏈棶棰橈紝娆㈣繋闅忔椂鑱旂郴銆?
+          </p>
+          <div>
+            <a href="#contact" class="btn-primary" style="margin-top:8px;">鑱旂郴鎴?/a>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top:60px;">
+        <div class="stats-grid">
+          <div class="stat-item">
+            <div class="stat-num">15<span class="unit">骞?/span></div>
+            <div class="stat-label">琛屼笟缁忛獙</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">200<span class="unit">涓?</span></div>
+            <div class="stat-label">骞翠骇閲忥紙浠讹級</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">50<span class="unit">+</span></div>
+            <div class="stat-label">鍑哄彛鍥藉</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-num">10<span class="unit">绉?/span></div>
+            <div class="stat-label">璇█鏈嶅姟</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?浜у搧灞曠ず 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲 -->
+  <section id="products" class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">浜у搧灞曠ず</span>
+        <h2 class="section-title">缁忓吀浜у搧绯诲垪</h2>
+        <p class="section-desc">瑙勬牸榻愬叏锛屾敮鎸佹寜鍥惧畾鍒跺姞宸?/p>
+      </div>
+
+      <div class="card-grid">
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">01</div>
+          <div class="warm-card-title">鑳舵湪鎵嬭疆</div>
+          <div class="warm-card-text">鏍囧噯DIN 950鎵嬭疆锛岃鏍奸綈鍏紙蠁40~蠁320mm锛夛紝鍙畾鍒跺瓟寰勪笌閿Ы銆傝€愰珮娓┿€佽€愯厫铓€锛岄暱鏈熷湪椋熷搧鏈烘銆佹満搴婅澶囦腑绋冲畾浣跨敤銆?/div>
+          <a href="#" class="warm-card-link" data-product="handwheel">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">02</div>
+          <div class="warm-card-title">鑳舵湪鎶婃墜</div>
+          <div class="warm-card-text">鍦嗗ご鎶婃墜銆侀敟澶存妸鎵嬨€佹槦鍨嬫妸鎵嬶紙AK鍨嬶級鍏ㄧ郴鍒椼€傛敮鎸丮3~M24鍚勭铻虹汗瑙勬牸锛岄潪鏍囧昂瀵告寜鍥惧畾鍒躲€傜粷缂樻€ц兘浼樿秺锛岄€傚悎鐢垫皵璁惧銆?/div>
+          <a href="#" class="warm-card-link" data-product="handle">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">03</div>
+          <div class="warm-card-title">鑳舵湪鎵嬫焺</div>
+          <div class="warm-card-text">鍗佸瓧鎵嬫焺銆佷竴瀛楁墜鏌勩€乀鍨嬫墜鏌勩€傚绉嶈鏍煎彲閫夛紝鑰愮（銆佽€愭补銆佸昂瀵哥ǔ瀹氥€傞暱鏈熶緵璐э紝鍑哄彛鍝佽川绠℃帶锛屾壒娆′竴鑷存€ч珮銆?/div>
+          <a href="#" class="warm-card-link" data-product="lever">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">04</div>
+          <div class="warm-card-title">娌归暅 / 娌规爣</div>
+          <div class="warm-card-text">閽㈠寲鐜荤拑娌圭獥锛岃€愬帇0.5~1.6MPa锛岃€愭俯-20掳C~+120掳C銆傞噾灞炴浣撻噰鐢ㄩ粍閾滄垨涓嶉攬閽紝瀵嗗皝鍙潬銆傞€傚悎鍑忛€熸満銆侀娇杞銆佹恫鍘嬬珯绛夋鼎婊戠郴缁熴€?/div>
+          <a href="#" class="warm-card-link" data-product="oilsight">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card warm-card-accent">
+          <div class="warm-card-icon">05</div>
+          <div class="warm-card-title">鑳舵湪鏃嬮挳 / 鍒诲害鐩?/div>
+          <div class="warm-card-text">鐢靛櫒寮€鍏虫棆閽€佷华琛ㄥ埢搴︾洏銆傝〃闈㈠瓧绗V鍗板瓧娓呮櫚鑰愮（锛岀粷缂樼瓑绾绾ф垨浠ヤ笂銆傝鏍枷?5~蠁100mm锛屾敮鎸佺壒娈婅姹傚畾鍒躲€?/div>
+          <a href="#" class="warm-card-link" data-product="knob">鏌ョ湅璇︽儏 鈫?/a>
+        </div>
+
+        <div class="warm-card" style="background:linear-gradient(135deg,#f0f4f8,#e8eef4);border:2px solid #1B4F72;">
+          <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+            <div style="width:44px;height:44px;background:#1B4F72;border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+            </div>
+            <div style="font-weight:700;font-size:1.05rem;color:var(--text);">鍏ㄩ儴浜у搧鍥惧唽</div>
+          </div>
+          <div class="warm-card-text">18椤靛畬鏁翠骇鍝佺洰褰曪紝娑电洊鎵嬭疆銆佹妸鎵嬨€佹墜鏌勩€佹补闀溿€佹棆閽瓑鍏ㄧ郴鍒椾骇鍝侀珮娓呭浘鐗囦笌瑙勬牸鍙傛暟銆備笅杞絇DF锛岄殢鏃舵煡闃呫€?/div>
+          <a href="assets/pdf/product-catalog.pdf" target="_blank" class="warm-card-link" style="color:#1B4F72;font-weight:700;">鏌ョ湅浜у搧鍥惧唽 PDF 鈫?/a>
+        </div>
+      </div>
+
+      <div class="warm-card" style="margin-top:32px;padding:32px;text-align:center;">
+        <div style="font-size:1.05rem;font-weight:700;color:var(--text);margin-bottom:10px;">闇€瑕侀潪鏍囧畾鍒讹紵</div>
+        <p style="font-size:0.92rem;color:var(--text-muted);margin-bottom:20px;max-width:500px;margin-left:auto;margin-right:auto;">
+          鍙戞潵浣犵殑鍥剧焊鎴栨牱鍝侀渶姹傦紝鍛婅瘔鎴戞潗鏂欍€佸昂瀵搞€佹暟閲忋€佷氦鏈熻姹傦紝鎴戜滑涓€璧疯瘎浼板彲琛屾€с€?
+          鍗佷簲骞撮厷閱涙爲鑴傞厤浠跺埗閫犵粡楠岋紝甯綘浠庡浘绾稿埌閲忎骇涓€姝ュ埌浣嶃€?
+        </p>
+        <a href="#contact" class="btn-primary">鍙戦€佸畾鍒堕渶姹?/a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?鍗氬鏂囩珷 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Blog Posts</span>
+        <h2 class="section-title">Industry News</h2>
+        <p class="section-desc">Technical articles and industry insights, regularly updated</p>
+      </div>
+
+  <div class="news-grid">
+
+
+
+  </div>
+
+
+    <div class="container">
+      <div class="subscribe-section">
+        <h2>璁㈤槄鏈€鏂拌涓氭礊瀵?/h2>
+        <p>涓嶇兢鍙戙€佷笉楠氭壈锛屾湁浠峰€肩殑琛屼笟鍔ㄦ€佸拰瀹炴垬鎶€鏈枃绔犳墠浼氭帹閫佺粰浣犮€?/p>
+        <form class="subscribe-form" action="#" method="post">
+          <input type="email" placeholder="杈撳叆浣犵殑閭" required aria-label="閭鍦板潃">
+          <button type="submit" class="btn-primary" style="flex-shrink:0;">绔嬪嵆璁㈤槄</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?鑱旂郴鎴戜滑 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <section id="contact" class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">鑱旂郴鎴戜滑</span>
+        <h2 class="section-title">鏈変换浣曢渶姹傦紝娆㈣繋鑱旂郴</h2>
+        <p class="section-desc">浜у搧鍜ㄨ 路 瀹氬埗鎶ヤ环 路 鎶€鏈氦娴?路 鍚堜綔娲借皥</p>
+      </div>
+
+      <div class="card-grid" style="max-width:800px;margin:0 auto;">
+        <div class="warm-card" style="text-align:center;padding:36px;">
+          <div style="font-size:1.6rem;margin-bottom:12px;color:var(--brand);font-weight:800;">@</div>
+          <div class="warm-card-title" style="text-align:center;margin-bottom:8px;">閭</div>
+          <div style="font-size:0.95rem;color:var(--text-muted);word-break:break-all;">
+            <a href="mailto:15503295692@163.com" class="link-glow" style="font-size:1rem;font-weight:600;">15503295692@163.com</a>
+          </div>
+          <div style="font-size:0.82rem;color:var(--text-light);margin-top:6px;">鍥炲閫氬父鍦?4灏忔椂鍐?/div>
+        </div>
+
+        <div class="warm-card" style="text-align:center;padding:36px;">
+          <div style="font-size:1.6rem;margin-bottom:12px;color:var(--brand);font-weight:800;">T</div>
+          <div class="warm-card-title" style="text-align:center;margin-bottom:8px;">鐢佃瘽</div>
+          <div style="font-size:1rem;color:var(--text-muted);">
+            <a href="tel:+8615503295692" class="link-glow" style="font-weight:600;">+86 155 0329 5692</a>
+          </div>
+          <div style="font-size:0.82rem;color:var(--text-light);margin-top:6px;">寰俊鍚屽彿锛屽伐浣滄棩 8:00-18:00</div>
+        </div>
+
+        <div class="warm-card" style="text-align:center;padding:36px;grid-column:1/-1;">
+          <div style="font-size:1.6rem;margin-bottom:12px;color:var(--brand);font-weight:800;">Loc</div>
+          <div class="warm-card-title" style="text-align:center;margin-bottom:8px;">宸ュ巶鍦板潃</div>
+          <div style="font-size:0.95rem;color:var(--text-muted);">
+            娌冲寳鐪佽　姘村競<br>
+            <span style="font-size:0.82rem;color:var(--text-light);">鍗庣幉鏈烘 路 涓撲笟閰氶啗鏍戣剛閰嶄欢鐢熶骇鍘傚</span>
+          </div>
+        </div>
+      </div>
+
+      <div style="text-align:center;margin-top:36px;">
+        <div style="font-size:0.82rem;color:var(--text-light);margin-bottom:12px;">鎴戜滑鎻愪緵浠ヤ笅璇█鏈嶅姟锛?/div>
+        <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:8px;">
+          <span class="tag">绠€浣撲腑鏂?/span>
+          <span class="tag">English</span>
+          <span class="tag">袪褍褋褋泻懈泄</span>
+          <span class="tag">Fran莽ais</span>
+          <span class="tag">Espa帽ol</span>
+          <span class="tag">Italiano</span>
+          <span class="tag">頃滉淡鞏?/span>
+          <span class="tag">鏃ユ湰瑾?/span>
+          <span class="tag">喔犩覆喔┼覆喙勦笚喔?/span>
+          <span class="tag">Ti岷縩g Vi峄噒</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?椤佃剼 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">鍒樼殑鍗氬 路 Bakelite</div>
+          <p class="footer-desc">
+            涓撴敞閰氶啗鏍戣剛(Bakelite)閰嶄欢棰嗗煙锛屽垎浜笓涓氱煡璇嗕笌琛屼笟娲炲療锛屽府鍔╀綘閫夊浜у搧銆侀伩鍧戙€侀檷鏈€?
+          </p>
+          <div class="footer-contact">
+            <a href="mailto:15503295692@163.com">15503295692@163.com</a>
+            <a href="tel:+8615503295692">+86 155 0329 5692</a>
+            <a href="#">娌冲寳鐪佽　姘村競</a>
+          </div>
+        </div>
+
+        <div>
+          <h4>蹇€熷鑸?/h4>
+          <div class="footer-links">
+            <a href="#hero">棣栭〉</a>
+            <a href="#about">鍏充簬鎴?/a>
+            <a href="#products">浜у搧灞曠ず</a>
+            <a href="#news">琛屼笟璧勮</a>
+            <a href="#contact">鑱旂郴鎴戜滑</a>
+          </div>
+        </div>
+
+        <div>
+          <h4>鍒囨崲璇█</h4>
+          <div class="footer-links">
+            <a href="/en/">English</a>
+            <a href="/ru/">袪褍褋褋泻懈泄</a>
+            <a href="/fr/">Fran莽ais</a>
+            <a href="/es/">Espa帽ol</a>
+            <a href="/ja/">鏃ユ湰瑾?/a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <span>漏 2026 鍒樼殑鍗氬 路 Bakelite閰氶啗鏍戣剛閰嶄欢涓撲笟鍗氬</span>
+        <span>鍗庣幉鏈烘 路 15骞撮厷閱涙爲鑴傞厤浠跺埗閫犵粡楠?/span>
+      </div>
+    </div>
+  </footer>
+
+  <button class="back-to-top" aria-label="杩斿洖椤堕儴">鈫?/button>
+
+  <script src="assets/js/main.js"></script>
+
+  <!-- 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?浜у搧璇︽儏寮圭獥 鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺?-->
+  <div id="product-modal" class="product-modal" role="dialog" aria-modal="true" aria-labelledby="modal-product-title" aria-hidden="true">
+    <div class="product-modal-overlay"></div>
+    <div class="product-modal-content">
+      <button class="product-modal-close" aria-label="鍏抽棴">&times;</button>
+      <div class="product-modal-image">
+        <img src="" alt="">
+      </div>
+      <div class="product-modal-header">
+        <div class="product-modal-header-inner">
+          <div class="product-modal-icon"></div>
+          <div>
+            <h2 class="modal-product-title" id="modal-product-title"></h2>
+            <div class="product-modal-subtitle"></div>
+          </div>
+        </div>
+      </div>
+      <div class="product-modal-body">
+        <div class="product-modal-section">
+          <div class="product-modal-section-title">馃搻 瑙勬牸鍙傛暟</div>
+          <table class="product-modal-text" style="width:100%;border-collapse:collapse;margin:0;">
+            <tbody id="modal-specs-body"></tbody>
+          </table>
+        </div>
+        <div class="product-modal-section">
+          <div class="product-modal-section-title">鉁?浜у搧鐗圭偣</div>
+          <div id="modal-features" class="product-modal-text"></div>
+        </div>
+        <div class="product-modal-section">
+          <div class="product-modal-section-title">馃彮 鍏稿瀷搴旂敤</div>
+          <div id="modal-applications"></div>
+        </div>
+        <div class="product-thumbs"></div>
+      </div>
+      <div class="product-modal-cta">
+        <a href="#contact" class="btn-primary" onclick="document.getElementById('product-modal').classList.remove('open');">鑱旂郴鎴戜滑鍜ㄨ璇︽儏</a>
+        <a href="assets/pdf/product-catalog.pdf" target="_blank" class="btn-secondary">涓嬭浇浜у搧鐩綍 PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <script>window.__ARTICLES__ = [{"id": "01", "slug": "phenolic-basics", "title": "閰氶啗鏍戣剛閰嶄欢鍏ラ棬锛氭潗鏂欑壒鎬с€佷紭鍔夸笌搴旂敤鍦烘櫙", "category": "鍏ラ棬鎵嬪唽", "date": "2026-04-10", "excerpt": "閰氶啗鏍戣剛鏄渶鏃╁疄鐜板伐涓氬寲鐨勫悎鎴愰珮鍒嗗瓙鏉愭枡锛屾嫢鏈変紭寮傜殑鑰愮儹銆佺粷缂樸€佽€愮（鐗规€э紝鏄満姊伴厤浠堕鍩熺殑缁忓吀涔嬮€夈€?, "readtime": 10, "href": "posts/zh/posts/zh/01-phenolic-basics.html", "tags": ["閰氶啗鏍戣剛", "鍏ラ棬", "鏉愭枡绉戞櫘"]}, {"id": "02", "slug": "material-selection", "title": "濡備綍涓轰綘鐨勫簲鐢ㄩ€夋嫨鍚堥€傜殑閰氶啗鏍戣剛鍨嬪彿", "category": "閫夊瀷鎸囧崡", "date": "2026-04-12", "excerpt": "PF1銆丳F2銆丳F3鈥﹂厷閱涙爲鑴傚瀷鍙风箒澶氾紝涓嶅悓鍨嬪彿鍦ㄨ€愮儹銆佸己搴︺€佺數鎬ц兘涓婃湁鏄捐憲宸紓锛岄€夐敊鍨嬪彿鐩存帴褰卞搷浜у搧鍙潬鎬с€?, "readtime": 8, "href": "posts/zh/posts/zh/02-material-selection.html", "tags": ["閫夊瀷", "PF鏍戣剛鍨嬪彿", "鏉愭枡瀵规瘮"]}, {"id": "03", "slug": "mold-design", "title": "閰氶啗鏍戣剛娉ㄥ妯″叿璁捐瑕佺偣锛氭祰鍙ｃ€佹祦閬撲笌鍐峰嵈绯荤粺", "category": "鎶€鏈繁娼?, "date": "2026-04-14", "excerpt": "閰氶啗鏍戣剛娴佸姩鎬у樊銆佺儹绋冲畾鎬ч珮锛屽妯″叿璁捐鏈夌壒娈婅姹傘€傛祰鍙ｄ綅缃€佹祦閬撶洿寰勩€佸喎鍗存按閬撳竷灞€閮芥槸鍐冲畾浜у搧鑹巼鐨勫叧閿€?, "readtime": 12, "href": "posts/zh/posts/zh/03-mold-design.html", "tags": ["妯″叿璁捐", "娉ㄥ宸ヨ壓", "鎶€鏈繁娼?]}, {"id": "04", "slug": "quality-control", "title": "閰氶啗鏍戣剛閰嶄欢璐ㄦ鏂规硶锛氬昂瀵搞€佸瑙傘€佸姛鑳戒笁缁村害妫€楠?, "category": "鎶€鏈繁娼?, "date": "2026-04-16", "excerpt": "澶栬缂洪櫡銆佸昂瀵歌秴宸€佸姛鑳藉け鏁堚€斺€旈厷閱涙爲鑴傞厤浠惰川妫€涓夌淮搴﹁瑙ｏ紝寤虹珛鏈夋晥鐨勫嚭鍘傛楠屼綋绯汇€?, "readtime": 8, "href": "posts/zh/posts/zh/04-quality-control.html", "tags": ["璐ㄦ", "璐ㄩ噺鎺у埗", "鎶€鏈繁娼?]}, {"id": "05", "slug": "industry-cases", "title": "閰氶啗鏍戣剛閰嶄欢琛屼笟搴旂敤妗堜緥锛氫粠鐭虫补閽讳簳鍒拌建閬撲氦閫?, "category": "琛屼笟瑙傚療", "date": "2026-04-16", "excerpt": "閰氶啗鏍戣剛閰嶄欢骞挎硾搴旂敤浜庣煶娌广€佸寲宸ャ€佽建閬撲氦閫氥€佸尰鐤楀櫒姊扮瓑棰嗗煙銆傛潵鐪嬪嚑涓湁浠ｈ〃鎬х殑鐪熷疄搴旂敤鍦烘櫙銆?, "readtime": 9, "href": "posts/zh/posts/zh/05-industry-cases.html", "tags": ["琛屼笟妗堜緥", "搴旂敤棰嗗煙", "琛屼笟瑙傚療"]}, {"id": "06", "slug": "custom-process", "title": "闈炴爣瀹氬埗閰氶啗鏍戣剛閰嶄欢锛氬浣曚笌宸ュ巶楂樻晥娌熼€氶渶姹?, "category": "琛屼笟瑙傚療", "date": "2026-04-16", "excerpt": "闈炴爣瀹氬埗鏈€澶х殑鎴愭湰鏄矡閫氥€傚浘绾镐笉瑙勮寖銆佽鏍间笉娓呮櫚鏄欢璇拰杩斿伐鐨勪富瑕佸師鍥犮€傛湰鏂囧垎浜浣曚竴娆¤娓呮闇€姹傘€?, "readtime": 7, "href": "posts/zh/posts/zh/06-custom-process.html", "tags": ["闈炴爣瀹氬埗", "瀹㈡埛娌熼€?, "琛屼笟瑙傚療"]}];</script>
+</body>
+</html>

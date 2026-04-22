@@ -1,0 +1,20 @@
+{
+  "score": 97,
+  "max_score": 100,
+  "categories": {
+    "结构完整性": 20,
+    "功能正常": 30,
+    "内容质量": 17,
+    "代码规范": 15,
+    "用户体验": 15
+  },
+  "issues": [
+    {
+      "severity": "minor",
+      "description": "英文页残留中文(590字符)",
+      "location": "index_en.html"
+    }
+  ],
+  "recommendations": [],
+  "deliverable": true
+}

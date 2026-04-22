@@ -1,0 +1,93 @@
+# Decap CMS 配置
+# 刘的博客 - 内容管理系统
+#
+# 【重要】部署说明：
+#   方案A - 使用GitHub后端（推荐）：
+#     1. 把整个liu-blog项目push到GitHub仓库
+#     2. 在Netlify/Vercel连接该仓库并开启Identity功能
+#     3. 把下面的 backend.type 改为 "netlify"
+#     4. 发布网站后就可以通过 /admin/ 管理内容了
+#
+#   方案B - 使用本地后端（仅测试）：
+#     当前设置为 local 后端，可在本地预览
+#     真实部署时需要改用GitHub后端
+#
+# 【内容更新后】
+#   每次在CMS中发布内容后，需要：
+#   1. 本地更新文件（CMS会自动写回）
+#   2. 重新生成HTML页面（运行 build.py）
+#   3. 提交到GitHub自动部署
+
+backend:
+  name: local
+  # ↓↓↓ 换成GitHub后端时使用这个配置 ↓↓↓ #
+  # name: git-gateway
+  # repo: your-username/liu-blog        # 改为你的GitHub仓库
+  # branch: main
+  # site_domain: liublog.example.com    # 改为你的域名
+
+local_backend: true   # 允许本地预览（仅测试用）
+
+# ============================================================
+# 媒体文件设置
+# ============================================================
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+# ============================================================
+# 博客文章集合
+# ============================================================
+collections:
+
+  # ── 中文博客文章 ──
+  - name: "posts-zh"
+    label: "中文文章"
+    label_singular: "中文文章"
+    folder: "posts/zh"
+    create: true
+    slug: "{{slug}}"
+    extension: html
+    format: html
+    fields:
+      - { label: "标题", name: "title", widget: "string" }
+      - { label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "作者", name: "author", widget: "string", default: "刘工" }
+      - { label: "摘要", name: "excerpt", widget: "text" }
+      - { label: "标签（用逗号分隔）", name: "tags", widget: "string", default: "" }
+      - { label: "封面图片", name: "cover", widget: "image", required: false }
+      - { label: "文章内容（HTML）", name: "body", widget: "markdown" }
+
+  # ── 英文博客文章 ──
+  - name: "posts-en"
+    label: "English Posts"
+    label_singular: "English Post"
+    folder: "posts/en"
+    create: true
+    slug: "{{slug}}"
+    extension: html
+    format: html
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "Author", name: "author", widget: "string", default: "Liu" }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Tags (comma separated)", name: "tags", widget: "string", default: "" }
+      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Content (HTML)", name: "body", widget: "markdown" }
+
+  # ── 新闻资讯 ──
+  - name: "news"
+    label: "新闻资讯"
+    label_singular: "新闻"
+    folder: "news"
+    create: true
+    slug: "{{slug}}"
+    extension: html
+    format: html
+    fields:
+      - { label: "标题", name: "title", widget: "string" }
+      - { label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "类型", name: "type", widget: "select", options: ["行业新闻", "技术动态", "产品发布", "展会信息"] }
+      - { label: "摘要", name: "excerpt", widget: "text" }
+      - { label: "内容", name: "body", widget: "markdown" }
+      - { label: "来源", name: "source", widget: "string", required: false }
