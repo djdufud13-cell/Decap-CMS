@@ -19,14 +19,9 @@
 #   3. 提交到GitHub自动部署
 
 backend:
-  name: local
-  # ↓↓↓ 换成GitHub后端时使用这个配置 ↓↓↓ #
-  # name: git-gateway
-  # repo: your-username/liu-blog        # 改为你的GitHub仓库
-  # branch: main
-  # site_domain: liublog.example.com    # 改为你的域名
-
-local_backend: true   # 允许本地预览（仅测试用）
+  name: git-gateway
+  repo: djdufud13-cell/Decap-CMS
+  branch: main
 
 # ============================================================
 # 媒体文件设置
