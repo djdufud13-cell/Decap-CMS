@@ -41,8 +41,8 @@ collections:
     folder: "posts/zh"
     create: true
     slug: "{{slug}}"
-    extension: html
-    format: html
+    extension: md
+    format: yaml-frontmatter
     fields:
       - { label: "标题", name: "title", widget: "string" }
       - { label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
@@ -59,8 +59,8 @@ collections:
     folder: "posts/en"
     create: true
     slug: "{{slug}}"
-    extension: html
-    format: html
+    extension: md
+    format: yaml-frontmatter
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
@@ -77,8 +77,8 @@ collections:
     folder: "news"
     create: true
     slug: "{{slug}}"
-    extension: html
-    format: html
+    extension: md
+    format: yaml-frontmatter
     fields:
       - { label: "标题", name: "title", widget: "string" }
       - { label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
