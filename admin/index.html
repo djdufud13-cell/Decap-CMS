@@ -5,15 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>刘的博客 - 内容管理</title>
   <style>
-    /* 匹配博客暖橙配色 */
     .css-1m3lUt { --color-primary: #E87722 !important; }
     body { font-family: 'Noto Sans SC', 'PingFang SC', sans-serif; }
-    #cms-loading { text-align: center; padding: 60px 20px; color: #3D2B1F; font-size: 18px; }
-    #cms-loading .spinner { display: inline-block; width: 30px; height: 30px; border: 3px solid #F4A261; border-top-color: #E87722; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 16px; }
+    #cms-loading {
+      text-align: center; padding: 60px 20px; color: #3D2B1F; font-size: 18px;
+    }
+    #cms-loading .spinner {
+      display: inline-block; width: 30px; height: 30px;
+      border: 3px solid #F4A261; border-top-color: #E87722;
+      border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 16px;
+    }
     @keyframes spin { to { transform: rotate(360deg); } }
   </style>
-  <!-- Netlify Identity Widget（登录必需，必须在 Decap CMS 之前加载） -->
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <meta name="google-site-verification" content="aaKmOZPoxWUIpNsa7FQNVaO5Dpxc0y3ZQKDablh9StA" />
 </head>
 <body>
   <div id="cms-loading">
@@ -21,15 +25,19 @@
     <p>正在加载内容管理系统...</p>
     <p style="font-size:14px;color:#999;">首次加载可能需要几秒钟</p>
   </div>
-  <!-- Decap CMS -->
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   <script>
-    // CMS 加载完成后移除加载提示
-    if (window.CMS) {
-      var loader = document.getElementById('cms-loading');
-      if (loader) loader.style.display = 'none';
-    }
+    // Wait for CMS to fully initialize then hide loading indicator
+    var checkCMS = setInterval(function() {
+      if (document.querySelector('[id^="nc-root"], .nc-app-container, [class*="App"]')) {
+        var loader = document.getElementById('cms-loading');
+        if (loader) loader.style.display = 'none';
+        clearInterval(checkCMS);
+      }
+    }, 500);
+    // Safety: stop checking after 30s
+    setTimeout(function() { clearInterval(checkCMS); }, 30000);
   </script>
-<meta name="google-site-verification" content="aaKmOZPoxWUIpNsa7FQNVaO5Dpxc0y3ZQKDablh9StA" />
 </body>
 </html>
