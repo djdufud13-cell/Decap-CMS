@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://liublog.example.com/sitemap.xml
+Sitemap: http://149.104.83.199/sitemap.xml
