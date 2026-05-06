@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://149.104.83.199/sitemap.xml
+Sitemap: https://liudeboke.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 10
