@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>刘的博客</title>
-    <link>https://liublog.example.com</link>
+    <link>https://liudeboke.com</link>
     <description>酚醛树脂配件专业博客</description>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 17 Apr 2026 12:53:15 +0000</lastBuildDate>
-    <atom:link href="https://liublog.example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://liudeboke.com/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title><![CDATA[酚醛树脂配件质检方法：尺寸、外观、功能三维度检验]]></title>
-    <link>https://liublog.example.com/posts/zh/posts/zh/04-quality-control.html</link>
-    <guid isPermaLink="true">https://liublog.example.com/posts/zh/posts/zh/04-quality-control.html</guid>
+    <link>https://liudeboke.com/posts/zh/posts/zh/04-quality-control.html</link>
+    <guid isPermaLink="true">https://liudeboke.com/posts/zh/posts/zh/04-quality-control.html</guid>
     <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[外观缺陷、尺寸超差、功能失效——酚醛树脂配件质检三维度详解，建立有效的出厂检验体系。]]></description>
     <category>技术深潜</category>
   </item>
   <item>
     <title><![CDATA[酚醛树脂配件行业应用案例：从石油钻井到轨道交通]]></title>
-    <link>https://liublog.example.com/posts/zh/posts/zh/05-industry-cases.html</link>
-    <guid isPermaLink="true">https://liublog.example.com/posts/zh/posts/zh/05-industry-cases.html</guid>
+    <link>https://liudeboke.com/posts/zh/posts/zh/05-industry-cases.html</link>
+    <guid isPermaLink="true">https://liudeboke.com/posts/zh/posts/zh/05-industry-cases.html</guid>
     <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[酚醛树脂配件广泛应用于石油、化工、轨道交通、医疗器械等领域。来看几个有代表性的真实应用场景。]]></description>
     <category>行业观察</category>
   </item>
   <item>
     <title><![CDATA[非标定制酚醛树脂配件：如何与工厂高效沟通需求]]></title>
-    <link>https://liublog.example.com/posts/zh/posts/zh/06-custom-process.html</link>
-    <guid isPermaLink="true">https://liublog.example.com/posts/zh/posts/zh/06-custom-process.html</guid>
+    <link>https://liudeboke.com/posts/zh/posts/zh/06-custom-process.html</link>
+    <guid isPermaLink="true">https://liudeboke.com/posts/zh/posts/zh/06-custom-process.html</guid>
     <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[非标定制最大的成本是沟通。图纸不规范、规格不清晰是延误和返工的主要原因。本文分享如何一次说清楚需求。]]></description>
     <category>行业观察</category>
   </item>
   <item>
     <title><![CDATA[酚醛树脂注塑模具设计要点：浇口、流道与冷却系统]]></title>
-    <link>https://liublog.example.com/posts/zh/posts/zh/03-mold-design.html</link>
-    <guid isPermaLink="true">https://liublog.example.com/posts/zh/posts/zh/03-mold-design.html</guid>
+    <link>https://liudeboke.com/posts/zh/posts/zh/03-mold-design.html</link>
+    <guid isPermaLink="true">https://liudeboke.com/posts/zh/posts/zh/03-mold-design.html</guid>
     <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[酚醛树脂流动性差、热稳定性高，对模具设计有特殊要求。浇口位置、流道直径、冷却水道布局都是决定产品良率的关键。]]></description>
     <category>技术深潜</category>
   </item>
   <item>
     <title><![CDATA[如何为你的应用选择合适的酚醛树脂型号]]></title>
-    <link>https://liublog.example.com/posts/zh/posts/zh/02-material-selection.html</link>
-    <guid isPermaLink="true">https://liublog.example.com/posts/zh/posts/zh/02-material-selection.html</guid>
+    <link>https://liudeboke.com/posts/zh/posts/zh/02-material-selection.html</link>
+    <guid isPermaLink="true">https://liudeboke.com/posts/zh/posts/zh/02-material-selection.html</guid>
     <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[PF1、PF2、PF3…酚醛树脂型号繁多，不同型号在耐热、强度、电性能上有显著差异，选错型号直接影响产品可靠性。]]></description>
     <category>选型指南</category>
   </item>
   <item>
     <title><![CDATA[酚醛树脂配件入门：材料特性、优势与应用场景]]></title>
-    <link>https://liublog.example.com/posts/zh/posts/zh/01-phenolic-basics.html</link>
-    <guid isPermaLink="true">https://liublog.example.com/posts/zh/posts/zh/01-phenolic-basics.html</guid>
+    <link>https://liudeboke.com/posts/zh/posts/zh/01-phenolic-basics.html</link>
+    <guid isPermaLink="true">https://liudeboke.com/posts/zh/posts/zh/01-phenolic-basics.html</guid>
     <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[酚醛树脂是最早实现工业化的合成高分子材料，拥有优异的耐热、绝缘、耐磨特性，是机械配件领域的经典之选。]]></description>
     <category>入门手册</category>
