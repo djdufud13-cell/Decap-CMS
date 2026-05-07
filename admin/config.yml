@@ -1,27 +1,30 @@
 # Decap CMS 配置
 # 刘的博客 - 内容管理系统
 #
-# 【重要】部署说明：
-#   方案A - 使用GitHub后端（推荐）：
-#     1. 把整个liu-blog项目push到GitHub仓库
-#     2. 在Netlify/Vercel连接该仓库并开启Identity功能
-#     3. 把下面的 backend.type 改为 "netlify"
-#     4. 发布网站后就可以通过 /admin/ 管理内容了
+# GitHub Pages 部署配置
+# 使用 GitHub OAuth 认证
 #
-#   方案B - 使用本地后端（仅测试）：
-#     当前设置为 local 后端，可在本地预览
-#     真实部署时需要改用GitHub后端
+# 【OAuth 设置步骤】
+#   1. 去 GitHub → Settings → Developer settings → OAuth Apps
+#   2. 创建新应用：
+#      - Application name: Liu's Blog CMS
+#      - Homepage URL: https://liudeboke.com
+#      - Authorization callback URL: https://liudeboke.com/admin/
+#   3. 把 Client ID 和 Client Secret 填到下方
+#
+# 【本地测试】
+#   如需本地测试，可改为 test-repo 后端
 #
 # 【内容更新后】
-#   每次在CMS中发布内容后，需要：
-#   1. 本地更新文件（CMS会自动写回）
-#   2. 重新生成HTML页面（运行 build.py）
-#   3. 提交到GitHub自动部署
+#   每次在CMS中发布内容后，GitHub会自动部署
 
 backend:
-  name: git-gateway
+  name: github
   repo: djdufud13-cell/Decap-CMS
   branch: main
+  # OAuth 配置（需在 GitHub 创建 OAuth App 后填写）
+  # base_url: https://liudeboke.com
+  # auth_endpoint: admin/auth
 
 # ============================================================
 # 媒体文件设置
