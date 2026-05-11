@@ -226,6 +226,33 @@
       "it": null,
       "th": null,
       "vi": null
+    },
+    {
+      "id": "12",
+      "slug": "bakelite-manufacturer-market-analysis",
+      "title": "为什么我们选择酚醛树脂配件制造商而非金属——以及我们学到的教训",
+      "titleEn": "Why We Chose a Bakelite Mechanical Parts Manufacturer Over Metal — And What We Learned",
+      "category": "Procurement",
+      "tags": [
+        "bakelite mechanical parts manufacturer",
+        "酚醛树脂",
+        "采购",
+        "供应商选择"
+      ],
+      "date": "2026-05-10",
+      "readtime": 7,
+      "excerpt": "一位采购工程师的亲身经历：从金属换成专业的bakelite机械配件制造商后，Cpk从0.89提升到1.47，报废率从6.2%降到0.8%。",
+      "zh": null,
+      "en": "posts/en/12-bakelite-manufacturer-market-analysis-procurement-guide.html",
+      "ja": null,
+      "ko": null,
+      "featured": true,
+      "ru": null,
+      "es": null,
+      "fr": null,
+      "it": null,
+      "th": null,
+      "vi": null
     }
   ]
 }

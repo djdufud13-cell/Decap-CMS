@@ -1,30 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://liudeboke.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://liudeboke.com/pages/zh/blog.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://liudeboke.com/pages/en/blog.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://liudeboke.com/index_en.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://liudeboke.com/pages/zh/index.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://liudeboke.com/pages/en/index.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://liudeboke.com/pages/es/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://liudeboke.com/pages/fr/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://liudeboke.com/pages/it/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://liudeboke.com/pages/ja/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://liudeboke.com/pages/ko/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://liudeboke.com/pages/ru/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://liudeboke.com/pages/th/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://liudeboke.com/pages/vi/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://liudeboke.com/posts/zh/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://liudeboke.com/posts/zh/01-phenolic-basics.html</loc><lastmod>2026-04-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/zh/02-material-selection.html</loc><lastmod>2026-04-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/zh/03-mold-design.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/zh/04-quality-control.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/zh/05-industry-cases.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/zh/06-custom-process.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/en/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://liudeboke.com/posts/en/01-phenolic-basics.html</loc><lastmod>2026-04-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/en/02-material-selection.html</loc><lastmod>2026-04-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/en/03-mold-design.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/en/04-quality-control.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/en/05-industry-cases.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/en/06-custom-process.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://liudeboke.com/posts/en/07-bakelite-selection-guide-pf-grade-specifications.html</loc><lastmod>2026-04-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://liudeboke.com/posts/zh/posts/zh/01-phenolic-basics.html</loc><lastmod>2026-04-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://liudeboke.com/posts/en/posts/en/01-phenolic-basics.html</loc><lastmod>2026-04-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://liudeboke.com/posts/zh/posts/zh/02-material-selection.html</loc><lastmod>2026-04-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://liudeboke.com/posts/en/posts/en/02-material-selection.html</loc><lastmod>2026-04-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://liudeboke.com/posts/zh/posts/zh/03-mold-design.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://liudeboke.com/posts/en/posts/en/03-mold-design.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://liudeboke.com/posts/zh/posts/zh/04-quality-control.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://liudeboke.com/posts/zh/posts/zh/05-industry-cases.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://liudeboke.com/posts/zh/posts/zh/06-custom-process.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://liudeboke.com/posts/en/posts/en/12-bakelite-manufacturer-market-analysis-procurement-guide.html</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
