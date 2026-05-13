@@ -1,392 +1,392 @@
-{
-  "site": {
-    "name": "刘的博客",
-    "nameEn": "Liu's Blog",
-    "author": "刘",
-    "authorTitle": "酚醛树脂配件十五年从业者",
-    "lang": "zh",
-    "langAlternates": [
-      "en",
-      "ja",
-      "ko",
-      "ru",
-      "es",
-      "fr",
-      "it",
-      "th",
-      "vi"
-    ],
-    "baseUrl": "https://liudeboke.com",
-    "languages": {
-      "zh": {
-        "name": "简体中文",
-        "nameNative": "简体中文",
-        "dir": "ltr"
-      },
-      "en": {
-        "name": "English",
-        "nameNative": "English",
-        "dir": "ltr"
-      },
-      "ja": {
-        "name": "日本語",
-        "nameNative": "日本語",
-        "dir": "ltr"
-      },
-      "ko": {
-        "name": "한국어",
-        "nameNative": "한국어",
-        "dir": "ltr"
-      },
-      "ru": {
-        "name": "Русский",
-        "nameNative": "Русский",
-        "dir": "ltr"
-      },
-      "es": {
-        "name": "Español",
-        "nameNative": "Español",
-        "dir": "ltr"
-      },
-      "fr": {
-        "name": "Français",
-        "nameNative": "Français",
-        "dir": "ltr"
-      },
-      "it": {
-        "name": "Italiano",
-        "nameNative": "Italiano",
-        "dir": "ltr"
-      },
-      "th": {
-        "name": "ภาษาไทย",
-        "nameNative": "ภาษาไทย",
-        "dir": "ltr"
-      },
-      "vi": {
-        "name": "Tiếng Việt",
-        "nameNative": "Tiếng Việt",
-        "dir": "ltr"
-      }
-    }
-  },
-  "articles": [
-    {
-      "id": "01",
-      "slug": "phenolic-basics",
-      "title": "酚醛树脂配件入门：材料特性、优势与应用场景",
-      "titleEn": "Getting Started with Phenolic Resin Parts: Properties, Advantages & Applications",
-      "category": "入门手册",
-      "tags": [
-        "酚醛树脂",
-        "入门",
-        "材料科普"
-      ],
-      "date": "2026-04-10",
-      "readtime": 10,
-      "excerpt": "酚醛树脂是最早实现工业化的合成高分子材料，拥有优异的耐热、绝缘、耐磨特性，是机械配件领域的经典之选。",
-      "zh": "posts/zh/01-phenolic-basics.html",
-      "en": "posts/en/01-phenolic-basics.html",
-      "ja": null,
-      "ko": null,
-      "featured": true,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    },
-    {
-      "id": "02",
-      "slug": "material-selection",
-      "title": "如何为你的应用选择合适的酚醛树脂型号",
-      "titleEn": "How to Choose the Right Phenolic Resin Grade for Your Application",
-      "category": "选型指南",
-      "tags": [
-        "选型",
-        "PF树脂型号",
-        "材料对比"
-      ],
-      "date": "2026-04-12",
-      "readtime": 8,
-      "excerpt": "PF1、PF2、PF3…酚醛树脂型号繁多，不同型号在耐热、强度、电性能上有显著差异，选错型号直接影响产品可靠性。",
-      "zh": "posts/zh/02-material-selection.html",
-      "en": "posts/en/02-material-selection.html",
-      "ja": null,
-      "ko": null,
-      "featured": false,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    },
-    {
-      "id": "03",
-      "slug": "mold-design",
-      "title": "酚醛树脂注塑模具设计要点：浇口、流道与冷却系统",
-      "titleEn": "Key Points in Phenolic Resin Injection Mold Design: Gates, Runners & Cooling",
-      "category": "技术深潜",
-      "tags": [
-        "模具设计",
-        "注塑工艺",
-        "技术深潜"
-      ],
-      "date": "2026-04-14",
-      "readtime": 12,
-      "excerpt": "酚醛树脂流动性差、热稳定性高，对模具设计有特殊要求。浇口位置、流道直径、冷却水道布局都是决定产品良率的关键。",
-      "zh": "posts/zh/03-mold-design.html",
-      "en": "posts/en/03-mold-design.html",
-      "ja": null,
-      "ko": null,
-      "featured": false,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    },
-    {
-      "id": "04",
-      "slug": "quality-control",
-      "title": "酚醛树脂配件质检方法：尺寸、外观、功能三维度检验",
-      "titleEn": "Quality Control Methods for Phenolic Resin Parts: Inspection from Three Dimensions",
-      "category": "技术深潜",
-      "tags": [
-        "质检",
-        "质量控制",
-        "技术深潜"
-      ],
-      "date": "2026-04-16",
-      "readtime": 8,
-      "excerpt": "外观缺陷、尺寸超差、功能失效——酚醛树脂配件质检三维度详解，建立有效的出厂检验体系。",
-      "zh": "posts/zh/04-quality-control.html",
-      "en": null,
-      "ja": null,
-      "ko": null,
-      "featured": false,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    },
-    {
-      "id": "05",
-      "slug": "industry-cases",
-      "title": "酚醛树脂配件行业应用案例：从石油钻井到轨道交通",
-      "titleEn": "Industry Application Cases of Phenolic Resin Parts: From Oil Drilling to Rail Transit",
-      "category": "行业观察",
-      "tags": [
-        "行业案例",
-        "应用领域",
-        "行业观察"
-      ],
-      "date": "2026-04-16",
-      "readtime": 9,
-      "excerpt": "酚醛树脂配件广泛应用于石油、化工、轨道交通、医疗器械等领域。来看几个有代表性的真实应用场景。",
-      "zh": "posts/zh/05-industry-cases.html",
-      "en": null,
-      "ja": null,
-      "ko": null,
-      "featured": false,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    },
-    {
-      "id": "06",
-      "slug": "custom-process",
-      "title": "非标定制酚醛树脂配件：如何与工厂高效沟通需求",
-      "titleEn": "Custom Phenolic Resin Parts: How to Communicate Your Requirements with the Factory",
-      "category": "行业观察",
-      "tags": [
-        "非标定制",
-        "客户沟通",
-        "行业观察"
-      ],
-      "date": "2026-04-16",
-      "readtime": 7,
-      "excerpt": "非标定制最大的成本是沟通。图纸不规范、规格不清晰是延误和返工的主要原因。本文分享如何一次说清楚需求。",
-      "zh": "posts/zh/06-custom-process.html",
-      "en": null,
-      "ja": null,
-      "ko": null,
-      "featured": false,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    },
-    {
-      "id": "12",
-      "slug": "bakelite-manufacturer-market-analysis",
-      "title": "为什么我们选择酚醛树脂配件制造商而非金属——以及我们学到的教训",
-      "titleEn": "Why We Chose a Bakelite Mechanical Parts Manufacturer Over Metal — And What We Learned",
-      "category": "Procurement",
-      "tags": [
-        "bakelite mechanical parts manufacturer",
-        "酚醛树脂",
-        "采购",
-        "供应商选择"
-      ],
-      "date": "2026-05-10",
-      "readtime": 7,
-      "excerpt": "一位采购工程师的亲身经历：从金属换成专业的bakelite机械配件制造商后，Cpk从0.89提升到1.47，报废率从6.2%降到0.8%。",
-      "zh": null,
-      "en": "posts/en/12-bakelite-manufacturer-market-analysis-procurement-guide.html",
-      "ja": null,
-      "ko": null,
-      "featured": true,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    },
-    {
-      "id": "14",
-      "slug": "custom-bakelite-parts-manufacturer-procurement-guide",
-      "title": "定制酚醛配件制造商采购指南",
-      "titleEn": "Custom Bakelite Parts Manufacturer: Engineering Reliability Into Every Mold",
-      "category": "Supplier Selection",
-      "tags": [
-        "custom bakelite parts manufacturer",
-        "供应商选择",
-        "Cpk",
-        "采购指南"
-      ],
-      "date": "2026-05-11",
-      "readtime": 6,
-      "excerpt": "How to evaluate a custom bakelite parts manufacturer: Cpk verification, material traceability, process control, and real procurement cases.",
-      "zh": null,
-      "en": "posts/en/14-custom-bakelite-parts-manufacturer-procurement-guide.html",
-      "ja": null,
-      "ko": null,
-      "featured": false,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    },
-    {
-      "id": "15",
-      "slug": "phenolic-resin-mechanical-parts-supplier-market-analysis",
-      "title": "酚醛树脂机械配件供应商：全球市场分析与采购策略",
-      "titleEn": "Phenolic Resin Mechanical Parts Supplier — Global Market Analysis and Sourcing Strategy",
-      "category": "Market Analysis",
-      "tags": [
-        "phenolic resin mechanical parts supplier",
-        "市场分析",
-        "供应商评估",
-        "采购策略"
-      ],
-      "date": "2026-05-11",
-      "readtime": 8,
-      "excerpt": "How to evaluate a phenolic resin mechanical parts supplier: 100-point scoring framework, tariff analysis, real procurement cases from 40+ supplier audits.",
-      "zh": null,
-      "en": "posts/en/15-phenolic-resin-mechanical-parts-supplier-market-analysis.html",
-      "ja": null,
-      "ko": null,
-      "featured": false,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    },
-    {
-      "id": "16",
-      "slug": "custom-bakelite-parts-manufacturer-engineering-decisions",
-      "title": "Custom Bakelite Parts Manufacturing Guide",
-      "titleEn": "Custom Bakelite Parts Manufacturer: Engineering Decisions That Determine Component Performance",
-      "category": "Procurement",
-      "tags": [
-        "custom bakelite parts manufacturer",
-        "phenolic resin mechanical parts",
-        "bakelite parts supplier",
-        "custom phenolic resin manufacturing"
-      ],
-      "date": "2026-05-10",
-      "readtime": 10,
-      "excerpt": "A procurement engineer's firsthand account: after a CNY 47,000 rework cost from a failed supplier, I developed a five-question qualification framework that has prevented field failures ever since.",
-      "zh": null,
-      "en": "posts/en/16-custom-bakelite-parts-manufacturer-engineering-decisions-that-determine-componen.html",
-      "ja": null,
-      "ko": null,
-      "featured": false,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    },
-    {
-      "id": "17",
-      "slug": "sourcing-guide-2026-phenolic-resin-mechanical-parts-supplier",
-      "title": "Sourcing Guide 2026: How to Choose the Right Phenolic Resin Mechanical Parts Supplier",
-      "titleEn": "Sourcing Guide 2026: How to Choose the Right Phenolic Resin Mechanical Parts Supplier",
-      "category": "Supplier Selection",
-      "tags": [
-        "phenolic resin mechanical parts supplier",
-        "bakelite parts sourcing",
-        "industrial procurement guide 2026",
-        "phenolic resin buyer"
-      ],
-      "date": "2026-05-10",
-      "readtime": 7,
-      "excerpt": "The phenolic resin market is giving buyers leverage right now—but only if you use a qualification framework that separates real process control from polished sales presentations.",
-      "zh": null,
-      "en": "posts/en/17-sourcing-guide-2026-how-to-choose-the-right-phenolic-resin-mechanical-parts-supp.html",
-      "ja": null,
-      "ko": null,
-      "featured": false,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    },
-    {
-      "id": "18",
-      "slug": "phenolic-resin-mechanical-parts-why-choose-bakelite-2026",
-      "title": "Phenolic Resin Mechanical Parts: Why Industrial Manufacturers Choose Bakelite in 2026",
-      "titleEn": "Phenolic Resin Mechanical Parts: Why Industrial Manufacturers Choose Bakelite in 2026",
-      "category": "Market Analysis",
-      "tags": [
-        "phenolic resin mechanical parts manufacturer",
-        "bakelite mechanical parts manufacturer",
-        "phenolic resin parts price 2026"
-      ],
-      "date": "2026-06-21",
-      "readtime": 8,
-      "excerpt": "Market dynamics driving phenolic resin adoption in 2026: feedstock price trends (phenol CNY 6,800-9,500/ton), geopolitical supply disruptions, and actionable procurement recommendations.",
-      "zh": null,
-      "en": "posts/en/18-phenolic-resin-mechanical-parts-why-industrial-manufacturers-choose-bakelite-in-.html",
-      "ja": null,
-      "ko": null,
-      "featured": false,
-      "ru": null,
-      "es": null,
-      "fr": null,
-      "it": null,
-      "th": null,
-      "vi": null
-    }
-  ]
+﻿{
+    "site":  {
+                 "name":  "刘的博客",
+                 "nameEn":  "Liu\u0027s Blog",
+                 "author":  "刘",
+                 "authorTitle":  "酚醛树脂配件十五年从业者",
+                 "lang":  "zh",
+                 "langAlternates":  [
+                                        "en",
+                                        "ja",
+                                        "ko",
+                                        "ru",
+                                        "es",
+                                        "fr",
+                                        "it",
+                                        "th",
+                                        "vi"
+                                    ],
+                 "baseUrl":  "https://liudeboke.com",
+                 "languages":  {
+                                   "zh":  {
+                                              "name":  "简体中文",
+                                              "nameNative":  "简体中文",
+                                              "dir":  "ltr"
+                                          },
+                                   "en":  {
+                                              "name":  "English",
+                                              "nameNative":  "English",
+                                              "dir":  "ltr"
+                                          },
+                                   "ja":  {
+                                              "name":  "日本語",
+                                              "nameNative":  "日本語",
+                                              "dir":  "ltr"
+                                          },
+                                   "ko":  {
+                                              "name":  "한국어",
+                                              "nameNative":  "한국어",
+                                              "dir":  "ltr"
+                                          },
+                                   "ru":  {
+                                              "name":  "Русский",
+                                              "nameNative":  "Русский",
+                                              "dir":  "ltr"
+                                          },
+                                   "es":  {
+                                              "name":  "Español",
+                                              "nameNative":  "Español",
+                                              "dir":  "ltr"
+                                          },
+                                   "fr":  {
+                                              "name":  "Français",
+                                              "nameNative":  "Français",
+                                              "dir":  "ltr"
+                                          },
+                                   "it":  {
+                                              "name":  "Italiano",
+                                              "nameNative":  "Italiano",
+                                              "dir":  "ltr"
+                                          },
+                                   "th":  {
+                                              "name":  "ภาษาไทย",
+                                              "nameNative":  "ภาษาไทย",
+                                              "dir":  "ltr"
+                                          },
+                                   "vi":  {
+                                              "name":  "Tiếng Việt",
+                                              "nameNative":  "Tiếng Việt",
+                                              "dir":  "ltr"
+                                          }
+                               }
+             },
+    "articles":  [
+                     {
+                         "id":  "01",
+                         "slug":  "phenolic-basics",
+                         "title":  "酚醛树脂配件入门：材料特性、优势与应用场景",
+                         "titleEn":  "Getting Started with Phenolic Resin Parts: Properties, Advantages \u0026 Applications",
+                         "category":  "入门手册",
+                         "tags":  [
+                                      "酚醛树脂",
+                                      "入门",
+                                      "材料科普"
+                                  ],
+                         "date":  "2026-04-10",
+                         "readtime":  10,
+                         "excerpt":  "酚醛树脂是最早实现工业化的合成高分子材料，拥有优异的耐热、绝缘、耐磨特性，是机械配件领域的经典之选。",
+                         "zh":  "posts/zh/01-phenolic-basics.html",
+                         "en":  "posts/en/01-phenolic-basics.html",
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  true,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     },
+                     {
+                         "id":  "02",
+                         "slug":  "material-selection",
+                         "title":  "如何为你的应用选择合适的酚醛树脂型号",
+                         "titleEn":  "How to Choose the Right Phenolic Resin Grade for Your Application",
+                         "category":  "选型指南",
+                         "tags":  [
+                                      "选型",
+                                      "PF树脂型号",
+                                      "材料对比"
+                                  ],
+                         "date":  "2026-04-12",
+                         "readtime":  8,
+                         "excerpt":  "PF1、PF2、PF3…酚醛树脂型号繁多，不同型号在耐热、强度、电性能上有显著差异，选错型号直接影响产品可靠性。",
+                         "zh":  "posts/zh/02-material-selection.html",
+                         "en":  "posts/en/02-material-selection.html",
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  false,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     },
+                     {
+                         "id":  "03",
+                         "slug":  "mold-design",
+                         "title":  "酚醛树脂注塑模具设计要点：浇口、流道与冷却系统",
+                         "titleEn":  "Key Points in Phenolic Resin Injection Mold Design: Gates, Runners \u0026 Cooling",
+                         "category":  "技术深潜",
+                         "tags":  [
+                                      "模具设计",
+                                      "注塑工艺",
+                                      "技术深潜"
+                                  ],
+                         "date":  "2026-04-14",
+                         "readtime":  12,
+                         "excerpt":  "酚醛树脂流动性差、热稳定性高，对模具设计有特殊要求。浇口位置、流道直径、冷却水道布局都是决定产品良率的关键。",
+                         "zh":  "posts/zh/03-mold-design.html",
+                         "en":  "posts/en/03-mold-design.html",
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  false,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     },
+                     {
+                         "id":  "04",
+                         "slug":  "quality-control",
+                         "title":  "酚醛树脂配件质检方法：尺寸、外观、功能三维度检验",
+                         "titleEn":  "Quality Control Methods for Phenolic Resin Parts: Inspection from Three Dimensions",
+                         "category":  "技术深潜",
+                         "tags":  [
+                                      "质检",
+                                      "质量控制",
+                                      "技术深潜"
+                                  ],
+                         "date":  "2026-04-16",
+                         "readtime":  8,
+                         "excerpt":  "外观缺陷、尺寸超差、功能失效——酚醛树脂配件质检三维度详解，建立有效的出厂检验体系。",
+                         "zh":  "posts/zh/04-quality-control.html",
+                         "en":  null,
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  false,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     },
+                     {
+                         "id":  "05",
+                         "slug":  "industry-cases",
+                         "title":  "酚醛树脂配件行业应用案例：从石油钻井到轨道交通",
+                         "titleEn":  "Industry Application Cases of Phenolic Resin Parts: From Oil Drilling to Rail Transit",
+                         "category":  "行业观察",
+                         "tags":  [
+                                      "行业案例",
+                                      "应用领域",
+                                      "行业观察"
+                                  ],
+                         "date":  "2026-04-16",
+                         "readtime":  9,
+                         "excerpt":  "酚醛树脂配件广泛应用于石油、化工、轨道交通、医疗器械等领域。来看几个有代表性的真实应用场景。",
+                         "zh":  "posts/zh/05-industry-cases.html",
+                         "en":  null,
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  false,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     },
+                     {
+                         "id":  "06",
+                         "slug":  "custom-process",
+                         "title":  "非标定制酚醛树脂配件：如何与工厂高效沟通需求",
+                         "titleEn":  "Custom Phenolic Resin Parts: How to Communicate Your Requirements with the Factory",
+                         "category":  "行业观察",
+                         "tags":  [
+                                      "非标定制",
+                                      "客户沟通",
+                                      "行业观察"
+                                  ],
+                         "date":  "2026-04-16",
+                         "readtime":  7,
+                         "excerpt":  "非标定制最大的成本是沟通。图纸不规范、规格不清晰是延误和返工的主要原因。本文分享如何一次说清楚需求。",
+                         "zh":  "posts/zh/06-custom-process.html",
+                         "en":  null,
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  false,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     },
+                     {
+                         "id":  "12",
+                         "slug":  "bakelite-manufacturer-market-analysis",
+                         "title":  "为什么我们选择酚醛树脂配件制造商而非金属——以及我们学到的教训",
+                         "titleEn":  "Why We Chose a Bakelite Mechanical Parts Manufacturer Over Metal — And What We Learned",
+                         "category":  "Procurement",
+                         "tags":  [
+                                      "bakelite mechanical parts manufacturer",
+                                      "酚醛树脂",
+                                      "采购",
+                                      "供应商选择"
+                                  ],
+                         "date":  "2026-05-10",
+                         "readtime":  7,
+                         "excerpt":  "一位采购工程师的亲身经历：从金属换成专业的bakelite机械配件制造商后，Cpk从0.89提升到1.47，报废率从6.2%降到0.8%。",
+                         "zh":  null,
+                         "en":  "posts/en/12-bakelite-manufacturer-market-analysis-procurement-guide.html",
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  true,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     },
+                     {
+                         "id":  "14",
+                         "slug":  "custom-bakelite-parts-manufacturer-procurement-guide",
+                         "title":  "定制酚醛配件制造商采购指南",
+                         "titleEn":  "Custom Bakelite Parts Manufacturer: Engineering Reliability Into Every Mold",
+                         "category":  "Supplier Selection",
+                         "tags":  [
+                                      "custom bakelite parts manufacturer",
+                                      "供应商选择",
+                                      "Cpk",
+                                      "采购指南"
+                                  ],
+                         "date":  "2026-05-11",
+                         "readtime":  6,
+                         "excerpt":  "How to evaluate a custom bakelite parts manufacturer: Cpk verification, material traceability, process control, and real procurement cases.",
+                         "zh":  null,
+                         "en":  "posts/en/14-custom-bakelite-parts-manufacturer-procurement-guide.html",
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  false,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     },
+                     {
+                         "id":  "15",
+                         "slug":  "phenolic-resin-mechanical-parts-supplier-market-analysis",
+                         "title":  "酚醛树脂机械配件供应商：全球市场分析与采购策略",
+                         "titleEn":  "Phenolic Resin Mechanical Parts Supplier — Global Market Analysis and Sourcing Strategy",
+                         "category":  "Market Analysis",
+                         "tags":  [
+                                      "phenolic resin mechanical parts supplier",
+                                      "市场分析",
+                                      "供应商评估",
+                                      "采购策略"
+                                  ],
+                         "date":  "2026-05-11",
+                         "readtime":  8,
+                         "excerpt":  "How to evaluate a phenolic resin mechanical parts supplier: 100-point scoring framework, tariff analysis, real procurement cases from 40+ supplier audits.",
+                         "zh":  null,
+                         "en":  "posts/en/15-phenolic-resin-mechanical-parts-supplier-market-analysis.html",
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  false,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     },
+                     {
+                         "id":  "16",
+                         "slug":  "custom-bakelite-parts-manufacturer-engineering-decisions",
+                         "title":  "Custom Bakelite Parts Manufacturing Guide",
+                         "titleEn":  "Custom Bakelite Parts Manufacturer: Engineering Decisions That Determine Component Performance",
+                         "category":  "Procurement",
+                         "tags":  [
+                                      "custom bakelite parts manufacturer",
+                                      "phenolic resin mechanical parts",
+                                      "bakelite parts supplier",
+                                      "custom phenolic resin manufacturing"
+                                  ],
+                         "date":  "2026-05-13",
+                         "readtime":  10,
+                         "excerpt":  "A procurement engineer\u0027s firsthand account: after a CNY 47,000 rework cost from a failed supplier, I developed a five-question qualification framework that has prevented field failures ever since.",
+                         "zh":  null,
+                         "en":  "posts/en/16-custom-bakelite-parts-manufacturer-engineering-decisions-that-determine-componen.html",
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  false,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     },
+                     {
+                         "id":  "17",
+                         "slug":  "sourcing-guide-2026-phenolic-resin-mechanical-parts-supplier",
+                         "title":  "Sourcing Guide 2026: How to Choose the Right Phenolic Resin Mechanical Parts Supplier",
+                         "titleEn":  "Sourcing Guide 2026: How to Choose the Right Phenolic Resin Mechanical Parts Supplier",
+                         "category":  "Supplier Selection",
+                         "tags":  [
+                                      "phenolic resin mechanical parts supplier",
+                                      "bakelite parts sourcing",
+                                      "industrial procurement guide 2026",
+                                      "phenolic resin buyer"
+                                  ],
+                         "date":  "2026-05-13",
+                         "readtime":  7,
+                         "excerpt":  "The phenolic resin market is giving buyers leverage right now—but only if you use a qualification framework that separates real process control from polished sales presentations.",
+                         "zh":  null,
+                         "en":  "posts/en/17-sourcing-guide-2026-how-to-choose-the-right-phenolic-resin-mechanical-parts-supp.html",
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  false,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     },
+                     {
+                         "id":  "18",
+                         "slug":  "phenolic-resin-mechanical-parts-why-choose-bakelite-2026",
+                         "title":  "Phenolic Resin Mechanical Parts: Why Industrial Manufacturers Choose Bakelite in 2026",
+                         "titleEn":  "Phenolic Resin Mechanical Parts: Why Industrial Manufacturers Choose Bakelite in 2026",
+                         "category":  "Market Analysis",
+                         "tags":  [
+                                      "phenolic resin mechanical parts manufacturer",
+                                      "bakelite mechanical parts manufacturer",
+                                      "phenolic resin parts price 2026"
+                                  ],
+                         "date":  "2026-05-13",
+                         "readtime":  8,
+                         "excerpt":  "Market dynamics driving phenolic resin adoption in 2026: feedstock price trends (phenol CNY 6,800-9,500/ton), geopolitical supply disruptions, and actionable procurement recommendations.",
+                         "zh":  null,
+                         "en":  "posts/en/18-phenolic-resin-mechanical-parts-why-industrial-manufacturers-choose-bakelite-in-.html",
+                         "ja":  null,
+                         "ko":  null,
+                         "featured":  false,
+                         "ru":  null,
+                         "es":  null,
+                         "fr":  null,
+                         "it":  null,
+                         "th":  null,
+                         "vi":  null
+                     }
+                 ]
 }
