@@ -5,7 +5,7 @@
     <link>https://liudeboke.com</link>
     <description>酚醛树脂配件专业博客</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 15 May 2026 11:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 11:36:08 +0000</lastBuildDate>
     <atom:link href="https://liudeboke.com/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title><![CDATA[Custom Bakelite Parts Manufacturer: Engineering Decisions That Determine Component Performance]]></title>
@@ -21,6 +21,22 @@
     <guid isPermaLink="true"></guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[After a $47,000 failure from selecting on unit price alone, I developed a 5-question qualification framework for phenolic resin mechanical parts suppliers. Includes 2026 market timing, total cost analysis, and red flags.]]></description>
+    <category>Supplier Selection</category>
+  </item>
+  <item>
+    <title><![CDATA[Phenolic Resin Mechanical Parts: Why Industrial Manufacturers Choose Bakelite in 2026]]></title>
+    <link></link>
+    <guid isPermaLink="true"></guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[Market dynamics driving phenolic resin adoption in 2026: feedstock price trends (phenol CNY 6,800-9,500/ton), geopolitical supply disruptions, and actionable procurement recommendations.]]></description>
+    <category>Market Analysis</category>
+  </item>
+  <item>
+    <title><![CDATA[Phenolic Resin Mechanical Parts Supplier: Global Sourcing Strategies and Market Outlook 2026]]></title>
+    <link></link>
+    <guid isPermaLink="true"></guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[Global sourcing strategies for phenolic resin mechanical parts in 2026: regional supplier dynamics, phenol/formaldehyde price intelligence, supplier evaluation framework, and emerging trends.]]></description>
     <category>Supplier Selection</category>
   </item>
   <item>
@@ -110,14 +126,6 @@
     <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[PF1、PF2、PF3…酚醛树脂型号繁多，不同型号在耐热、强度、电性能上有显著差异，选错型号直接影响产品可靠性。]]></description>
     <category>选型指南</category>
-  </item>
-  <item>
-    <title><![CDATA[酚醛树脂配件入门：材料特性、优势与应用场景]]></title>
-    <link>https://liudeboke.com/posts/zh/posts/zh/01-phenolic-basics.html</link>
-    <guid isPermaLink="true">https://liudeboke.com/posts/zh/posts/zh/01-phenolic-basics.html</guid>
-    <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-    <description><![CDATA[酚醛树脂是最早实现工业化的合成高分子材料，拥有优异的耐热、绝缘、耐磨特性，是机械配件领域的经典之选。]]></description>
-    <category>入门手册</category>
   </item>
   </channel>
 </rss>
