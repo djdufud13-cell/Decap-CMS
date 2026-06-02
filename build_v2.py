@@ -145,7 +145,7 @@ def article_card(data, lang):
 def build_manifest_js(articles, lang):
     """生成 article list JSON 注入到 index 页面，供 main.js 读取"""
     items = []
-    for a in articles[:6]:  # top 6
+    for a in sorted(articles, key=lambda x: x.get('date', ''), reverse=True)[:8]:  # latest 8
         href = None
         for try_lang in [lang, 'en', 'zh']:
             if a.get(try_lang):
@@ -375,7 +375,9 @@ def build_index(articles, lang):
         hero_title_html = "15 Years of Focus on<br>Phenolic Resin Parts."
 
     # News cards (top 6 articles with fallback)
-    news_cards = '\n'.join(news_card(a, lang) for a in articles[:6] if a.get(lang) or a.get('en') or a.get('zh'))
+    # Show latest 8 articles (sorted by date desc) in news section
+    sorted_articles = sorted(articles, key=lambda a: a.get('date', ''), reverse=True)
+    news_cards = '\n'.join(news_card(a, lang) for a in sorted_articles[:8] if a.get(lang) or a.get('en') or a.get('zh'))
 
     # Inject article list as JS (for main.js to render news dynamically)
     article_list_js = build_manifest_js(articles, lang)
@@ -394,8 +396,12 @@ def build_index(articles, lang):
     # Read existing index for zh/en to preserve structure
     if index_path.exists():
         html = index_path.read_text(encoding='utf-8')
-        # Inject article list
-        if '<script>window.__ARTICLES__' not in html:
+        # Always inject/replace article list (use latest articles)
+        if '<script>window.__ARTICLES__' in html:
+            # Replace existing window.__ARTICLES__ block with new content
+            html = re.sub(r'<script>window\.__ARTICLES__\s*=\s*.*?</script>',
+                          article_inject.strip(), html, flags=re.DOTALL)
+        else:
             body_end = html.rfind('</body>')
             if body_end > 0:
                 html = html[:body_end] + article_inject + html[body_end:]
@@ -549,7 +555,8 @@ def main():
         if not p.exists():
             # Create a simple landing page with news
             article_list_js = build_manifest_js(articles, lang)
-            news_cards = '\n'.join(news_card(a, lang) for a in articles[:6]
+            sorted_articles = sorted(articles, key=lambda a: a.get('date', ''), reverse=True)
+            news_cards = '\n'.join(news_card(a, lang) for a in sorted_articles[:8]
                                    if a.get(lang) or a.get('en') or a.get('zh'))
             t = T.get(lang, T['en'])
             simple_html = f'''<!DOCTYPE html>
