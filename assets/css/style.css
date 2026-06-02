@@ -1472,3 +1472,89 @@ body::before {
     grid-template-columns: 1fr;
   }
 }
+
+/* ── 图片懒加载 ─────────────────────────────────────── */
+img[data-src] {
+  background-color: var(--bg-alt);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+img[data-src].loaded {
+  opacity: 1;
+}
+
+/* 图片加载占位符 */
+.img-placeholder {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(90deg, var(--bg-alt) 25%, rgba(255,255,255,0.05) 50%, var(--bg-alt) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* ── 性能优化：字体显示优化 ─────────────────────────── */
+.font-display {
+  font-display: swap;
+}
+
+/* 减少布局偏移 */
+img {
+  aspect-ratio: attr(width) / attr(height);
+}
+
+/* ── 面包屑导航 ─────────────────────────────────────── */
+.breadcrumb {
+  padding: 16px 0;
+  margin: 0 auto;
+  max-width: var(--max-width, 1200px);
+  font-size: 0.875rem;
+}
+
+.breadcrumb-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.breadcrumb-item {
+  display: inline-flex;
+  align-items: center;
+  color: var(--text-muted);
+}
+
+.breadcrumb-item a {
+  color: var(--brand, #E87722);
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.breadcrumb-item a:hover {
+  opacity: 0.7;
+  text-decoration: underline;
+}
+
+.breadcrumb-separator {
+  color: var(--text-muted);
+  font-size: 0.75em;
+  margin: 0 4px;
+}
+
+.breadcrumb-item.active {
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+/* Schema.org BreadcrumbList 结构化数据支持 */
+.breadcrumb[role="navigation"][aria-label="Breadcrumb"] {
+  /* 确保语义化正确 */
+}

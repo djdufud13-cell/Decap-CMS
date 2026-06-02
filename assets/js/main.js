@@ -701,4 +701,45 @@
     }
   })();
 
+  /* ── 13. 图片懒加载 ──────────────────────────────────────────── */
+  (function() {
+    var lazyImages = document.querySelectorAll('img[data-src]');
+    if ('IntersectionObserver' in window && lazyImages.length > 0) {
+      var imageObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            var img = entry.target;
+            img.src = img.dataset.src;
+            img.removeAttribute('data-src');
+            img.classList.add('loaded');
+            imageObserver.unobserve(img);
+          }
+        });
+      }, {rootMargin: '200px'});
+      
+      lazyImages.forEach(function(img) {
+        imageObserver.observe(img);
+      });
+    } else {
+      // Fallback for browsers without IntersectionObserver
+      lazyImages.forEach(function(img) {
+        img.src = img.dataset.src;
+        img.removeAttribute('data-src');
+      });
+    }
+  })();
+
+  /* ── 14. 性能优化：预加载关键资源 ─────────────────────────── */
+  (function() {
+    // 预加载下一页面的字体
+    var preloadFonts = true;
+    if (preloadFonts) {
+      var link = document.createElement('link');
+      link.rel = 'preload';
+      link.as = 'style';
+      link.href = 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap';
+      document.head.appendChild(link);
+    }
+  })();
+
 })();

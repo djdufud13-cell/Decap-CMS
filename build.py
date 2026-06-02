@@ -30,14 +30,22 @@ OUTPUT_DIR = BASE
 def article_card(data, lang="zh", size=8):
     """生成文章卡片 HTML"""
     slug = data["slug"]
-    href = f'posts/{lang}/{data[lang] or data["en"] or "index.html"}' if data.get(lang) or data.get("en") else "#"
+    href = data.get(lang) or data.get("en") or "#"
     if href.endswith(".html") and not os.path.exists(BASE / href):
         href = "#"
-    category = data.get("category", "")
     date = data.get("date", "")
     readtime = data.get("readtime", 8)
-    excerpt = data.get("excerpt", "")
-    title = data.get(f"titleEn") if lang != "zh" and data.get(f"titleEn") else data.get("title", "")
+    
+    if lang == "zh":
+        category = data.get("category", "")
+        excerpt = data.get("excerpt", "")
+        title = data.get("title", "")
+    else:
+        category = data.get("categoryEn", data.get("category", ""))
+        excerpt = data.get("excerptEn", data.get("excerpt", ""))
+        title = data.get("titleEn", data.get("title", ""))
+
+    readtime_text = f"阅读约 {readtime} 分钟" if lang == "zh" else f"Read for {readtime} min"
 
     return f'''
     <a href="../../{href}" class="article-card">
@@ -49,7 +57,7 @@ def article_card(data, lang="zh", size=8):
         <h3 class="article-card-title">{title}</h3>
         <p class="article-card-excerpt">{excerpt}</p>
         <div class="article-card-footer">
-          <span class="article-card-readtime">阅读约 {readtime} 分钟</span>
+          <span class="article-card-readtime">{readtime_text}</span>
           <span class="article-card-arrow">→</span>
         </div>
       </div>
@@ -87,6 +95,10 @@ def build_blog_page(articles, lang="zh"):
     """生成完整的博客列表页（包含 header + 文章网格 + footer）"""
     site_title = "刘的博客" if lang == "zh" else "Liu's Blog"
     blog_title = "全部文章" if lang == "zh" else "All Articles"
+    
+    # 面包屑导航文本
+    home_text = "首页" if lang == "zh" else "Home"
+    blog_text = "博客" if lang == "zh" else "Blog"
 
     # 按分类分组
     from collections import defaultdict
@@ -122,6 +134,16 @@ def build_blog_page(articles, lang="zh"):
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{blog_title} | {site_title}</title>
   <meta name="description" content="{"刘的博客全部文章，涵盖酚醛树脂配件入门、选型指南、技术深潜、行业观察等。" if lang == "zh" else "All articles on phenolic resin parts, technical guides and industry insights."}">
+  
+  <!-- 安全头（备用，优先使用服务器配置） -->
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta http-equiv="X-Frame-Options" content="DENY">
+  <meta http-equiv="X-XSS-Protection" content="1; mode=block">
+  <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin">
+  
+  <!-- CSP Meta 标签（备用） -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self'">
+  
   <link rel="alternate" hreflang="zh" href="../../pages/zh/blog.html">
   <link rel="alternate" hreflang="en" href="../../pages/en/blog.html">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
@@ -154,6 +176,21 @@ def build_blog_page(articles, lang="zh"):
       <a href="../../index.html#products">产品</a>
       <a href="../../index.html#contact">联系</a>
     </div>
+  </nav>
+
+  <!-- 面包屑导航 -->
+  <nav class="breadcrumb" role="navigation" aria-label="Breadcrumb">
+    <ol class="breadcrumb-list" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="../../index.html" itemprop="item"><span itemprop="name">{home_text}</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <li class="breadcrumb-separator" aria-hidden="true">›</li>
+      <li class="breadcrumb-item active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <span itemprop="name">{blog_text}</span>
+        <meta itemprop="position" content="2" />
+      </li>
+    </ol>
   </nav>
 
   <main class="blog-main">
@@ -202,7 +239,7 @@ def build_blog_page(articles, lang="zh"):
 
     out_path = OUTPUT_DIR / f"pages/{lang}/blog.html"
     out_path.write_text(html, encoding="utf-8")
-    print(f"  ✅ {out_path.relative_to(BASE)}")
+    print(f"  [OK] {out_path.relative_to(BASE)}")
 
 
 # ──────────────────────────────────────────────
@@ -237,7 +274,7 @@ def update_index_news(articles, lang="zh"):
         if m:
             new_block = m.group(1) + "\n          <div class=\"news-grid\">" + cards + "\n          </div>\n        " + m.group(3)
             html = html[:m.start()] + new_block + html[m.end():]
-            print(f"  ✅ 首页 [{lang}] news section updated via pattern: {pat[:50]}")
+            print(f"  [OK] 首页 [{lang}] news section updated via pattern: {pat[:50]}")
             replaced = True
             break
 
@@ -249,7 +286,7 @@ def update_index_news(articles, lang="zh"):
             s = html.find(start_marker) + len(start_marker)
             e = html.find(end_marker)
             html = html[:s] + "\n          <div class=\"news-grid\">" + cards + "\n          </div>\n        " + html[e:]
-            print(f"  ✅ 首页 [{lang}] news section updated via markers")
+            print(f"  [OK] 首页 [{lang}] news section updated via markers")
             replaced = True
 
     if not replaced:
@@ -274,11 +311,14 @@ def build_sitemap(articles, site):
         {"loc": base + "/index_en.html", "priority": "0.9", "changefreq": "weekly"},
     ]
     for a in articles:
-        slug = a["slug"]
-        if a.get("zh"):
-            urls.append({"loc": f"{base}/posts/zh/{slug}.html", "priority": "0.8", "changefreq": "monthly", "date": a.get("date", today)})
-        if a.get("en"):
-            urls.append({"loc": f"{base}/posts/en/{slug}.html", "priority": "0.8", "changefreq": "monthly", "date": a.get("date", today)})
+        # Use actual file path from manifest
+        zh_path = a.get("zh", "")
+        en_path = a.get("en", "")
+        
+        if zh_path:
+            urls.append({"loc": f"{base}/{zh_path}", "priority": "0.8", "changefreq": "monthly", "date": a.get("date", today)})
+        if en_path:
+            urls.append({"loc": f"{base}/{en_path}", "priority": "0.8", "changefreq": "monthly", "date": a.get("date", today)})
 
     url_tags = []
     for u in urls:
@@ -297,7 +337,7 @@ def build_sitemap(articles, site):
 
     out = OUTPUT_DIR / "sitemap.xml"
     out.write_text(xml, encoding="utf-8")
-    print(f"  ✅ sitemap.xml")
+    print(f"  [OK] sitemap.xml")
 
 
 # ──────────────────────────────────────────────
@@ -311,16 +351,27 @@ def build_feed(articles, site):
 
     items = []
     for a in sorted(articles, key=lambda x: x.get("date", ""), reverse=True)[:10]:
-        slug = a["slug"]
-        href_zh = f"{base}/posts/zh/{slug}.html" if a.get("zh") else ""
-        href_en = f"{base}/posts/en/{slug}.html" if a.get("en") else ""
+        # Use actual file path from manifest
+        zh_path = a.get("zh", "")
+        en_path = a.get("en", "")
+        href_zh = f"{base}/{zh_path}" if zh_path else ""
+        href_en = f"{base}/{en_path}" if en_path else ""
+        
+        # Prefer English link for RSS, fallback to Chinese
+        primary_link = href_en or href_zh
+        
         dt = datetime.strptime(a.get("date", today), "%Y-%m-%d").strftime("%a, %d %b %Y %H:%M:%S +0000")
+        
+        # Get appropriate title and excerpt based on language availability
+        title = a.get("titleEn", a.get("title", ""))
+        excerpt = a.get("excerptEn", a.get("excerpt", ""))
+        
         items.append(f'''  <item>
-    <title>{a["title"]}</title>
-    <link>{href_zh}</link>
-    <guid isPermaLink="true">{href_zh}</guid>
+    <title>{title}</title>
+    <link>{primary_link}</link>
+    <guid isPermaLink="true">{primary_link}</guid>
     <pubDate>{dt}</pubDate>
-    <description><![CDATA[{a.get("excerpt", "")}]]></description>
+    <description><![CDATA[{excerpt}]]></description>
     <category>{a.get("category", "")}</category>
   </item>''')
 
@@ -339,7 +390,7 @@ def build_feed(articles, site):
 
     out = OUTPUT_DIR / "feed.xml"
     out.write_text(xml, encoding="utf-8")
-    print(f"  ✅ feed.xml")
+    print(f"  [OK] feed.xml")
 
 
 # ──────────────────────────────────────────────
@@ -416,7 +467,7 @@ def build_article(article_data, lang="zh"):
 
     filepath.parent.mkdir(parents=True, exist_ok=True)
     filepath.write_text(html, encoding="utf-8")
-    print(f"  ✅ Created: {filepath.relative_to(BASE)}  ({'ZH' if lang=='zh' else 'EN'})")
+    print(f"  [OK] Created: {filepath.relative_to(BASE)}  ({'ZH' if lang=='zh' else 'EN'})")
 
 
 # ──────────────────────────────────────────────
@@ -428,14 +479,14 @@ def main():
     if len(sys.argv) > 1:
         mode = sys.argv[1]
 
-    print(f"\n🔧 刘的博客 Build Script — {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"\n[BUILD] 刘的博客 Build Script — {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print("=" * 50)
 
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
     articles = manifest["articles"]
     site = manifest["site"]
 
-    print(f"\n📋 Manifest loaded: {len(articles)} articles")
+    print(f"\n[INFO] Manifest loaded: {len(articles)} articles")
 
     if mode == "--init":
         # 生成新文章模板
@@ -466,12 +517,12 @@ def main():
         manifest["articles"] = articles
         MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
         build_article(new_article, "zh")
-        print(f"\n✅ Template created! Now edit posts/zh/{next_id}-{slug}.html with actual content.")
+        print(f"\n[OK] Template created! Now edit posts/zh/{next_id}-{slug}.html with actual content.")
         print(f"   Then run: python build.py --article")
         return
 
     # 1. 生成文章（仅不存在的新文章）
-    print("\n📝 Article files...")
+    print("\n[STEP] Article files...")
     zh_count = en_count = 0
     for a in articles:
         if a.get("zh"):
@@ -483,21 +534,21 @@ def main():
     print(f"   Articles: {zh_count} ZH, {en_count} EN")
 
     # 2. 生成博客列表页
-    print("\n📄 Blog listing pages...")
+    print("\n[STEP] Blog listing pages...")
     build_blog_page(articles, "zh")
     build_blog_page(articles, "en")
 
     # 3. 更新首页行业资讯
-    print("\n🏠 Updating index pages...")
+    print("\n[STEP] Updating index pages...")
     update_index_news(articles, "zh")
     update_index_news(articles, "en")
 
     # 4. SEO 文件
-    print("\n🔍 SEO files...")
+    print("\n[STEP] SEO files...")
     build_sitemap(articles, site)
     build_feed(articles, site)
 
-    print(f"\n✅ Build complete! {datetime.now().strftime('%H:%M:%S')}")
+    print(f"\n[OK] Build complete! {datetime.now().strftime('%H:%M:%S')}")
     print(f"   Run `python build.py --init` to add a new article interactively.")
     print(f"   Run `python build.py --article` after manually editing article HTML files.")
 
