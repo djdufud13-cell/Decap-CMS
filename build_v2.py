@@ -128,15 +128,15 @@ def article_card(data, lang):
     title = data.get(f'title{lang.capitalize()}') or data.get('title', '')
     excerpt = data.get('excerpt', '')
     rt = data.get('readtime', 8)
-    tags = ''.join(f'<span class="article-tag">{tag}</span>' for tag in data.get('tags', []))
+    tags = ''.join(f'<span class="blog-card-tag">{tag}</span>' for tag in data.get('tags', []))
 
-    return f'''<a href="../../{href}" class="article-card">
-  <div class="article-card-inner">
-    <div class="article-card-meta"><span class="article-card-category">{cat}</span><span class="article-card-date">{date}</span></div>
-    <h3 class="article-card-title">{title}</h3>
-    <p class="article-card-excerpt">{excerpt}</p>
-    <div class="article-card-tags">{tags}</div>
-    <div class="article-card-footer"><span class="article-card-readtime">{"阅读约" if lang=="zh" else "Read for"} {rt} {"分钟" if lang=="zh" else "min"}</span><span class="article-card-arrow">→</span></div>
+    return f'''<a href="../../{href}" class="blog-card">
+  <div class="blog-card-body">
+    <div class="blog-card-meta"><span class="blog-card-category">{cat}</span><span class="blog-card-date">{date}</span></div>
+    <h3 class="blog-card-title">{title}</h3>
+    <p class="blog-card-excerpt">{excerpt}</p>
+    <div class="blog-card-tags">{tags}</div>
+    <div class="blog-card-footer"><span class="blog-card-readtime">{"阅读约" if lang=="zh" else "Read for"} {rt} {"分钟" if lang=="zh" else "min"}</span><span class="blog-readlink">→</span></div>
   </div>
 </a>'''
 
@@ -187,7 +187,7 @@ def build_blog_page(articles, lang):
         cat_sections += f'''
     <section class="blog-category-section">
       <h2 class="blog-category-title">{cat}</h2>
-      <div class="article-grid">{cat_cards}
+      <div class="blog-grid">{cat_cards}
       </div>
     </section>'''
 
@@ -238,7 +238,7 @@ def build_blog_page(articles, lang):
         <p class="blog-page-desc">{"酚醛树脂配件领域专业内容，从入门到精通" if lang=="zh" else "Expert knowledge on phenolic resin parts"}</p>
       </header>
       <section class="all-articles">
-        <div class="article-grid">{cards}
+        <div class="blog-grid">{cards}
         </div>
       </section>
 {cat_sections}
