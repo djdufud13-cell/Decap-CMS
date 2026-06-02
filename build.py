@@ -261,14 +261,15 @@ def update_index_news(articles, lang="zh"):
     # 读取现有首页
     html = index_file.read_text(encoding="utf-8")
 
-    # 生成新内容 - 按日期排序，取最新的 6 篇
+    # 生成新内容 - 按日期排序，显示全部文章
     featured = [a for a in articles if a.get(lang) or a.get("en")]
     if not featured:
         return
     # 按日期降序排序（最新在前）
     featured_sorted = sorted(featured, key=lambda x: x.get("date", ""), reverse=True)
-    top6 = featured_sorted[:6]
-    cards = "\n".join(news_card(a, lang) for a in top6)
+    # 显示所有文章（最多 15 篇）
+    top_articles = featured_sorted[:15]
+    cards = "\n".join(news_card(a, lang) for a in top_articles)
 
     # 在 html 中找 <section id="news"> 或类似区块
     # 先尝试找包含 news 或 行业资讯 的 section
