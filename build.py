@@ -66,14 +66,22 @@ def article_card(data, lang="zh", size=8):
 def news_card(data, lang="zh"):
     """生成首页行业资讯小卡片"""
     slug = data["slug"]
-    href = f'posts/{lang}/{data[lang] or data["en"] or "index.html"}' if data.get(lang) or data.get("en") else "#"
+    # Use actual file path from manifest (already includes posts/{lang}/)
+    href = data.get(lang) or data.get("en") or "#"
     if href.endswith(".html") and not os.path.exists(BASE / href):
         href = "#"
-    category = data.get("category", "")
+    
+    if lang == "zh":
+        category = data.get("category", "")
+        excerpt = data.get("excerpt", "")
+        title = data.get("title", "")
+    else:
+        category = data.get("categoryEn", data.get("category", ""))
+        excerpt = data.get("excerptEn", data.get("excerpt", ""))
+        title = data.get("titleEn", data.get("title", ""))
+    
     date = data.get("date", "")
     readtime = data.get("readtime", 8)
-    title = data.get(f"titleEn") if lang != "zh" and data.get(f"titleEn") else data.get("title", "")
-    excerpt = data.get("excerpt", "")
 
     return f'''
         <a href="{href}" class="news-card">
@@ -82,8 +90,8 @@ def news_card(data, lang="zh"):
             <span class="news-card-date">{date}</span>
           </div>
           <h3 class="news-card-title">{title}</h3>
-          <p class="news-card-excerpt">{excerpt[:60]}…</p>
-          <span class="news-card-cta">阅读 {readtime}min →</span>
+          <p class="news-card-excerpt">{excerpt[:80]}…</p>
+          <span class="news-card-cta">{"阅读" if lang == "zh" else "Read"} {readtime}min →</span>
         </a>'''
 
 
@@ -253,12 +261,14 @@ def update_index_news(articles, lang="zh"):
     # 读取现有首页
     html = index_file.read_text(encoding="utf-8")
 
-    # 生成新内容
+    # 生成新内容 - 按日期排序，取最新的 6 篇
     featured = [a for a in articles if a.get(lang) or a.get("en")]
     if not featured:
         return
-    top3 = featured[:3]
-    cards = "\n".join(news_card(a, lang) for a in top3)
+    # 按日期降序排序（最新在前）
+    featured_sorted = sorted(featured, key=lambda x: x.get("date", ""), reverse=True)
+    top6 = featured_sorted[:6]
+    cards = "\n".join(news_card(a, lang) for a in top6)
 
     # 在 html 中找 <section id="news"> 或类似区块
     # 先尝试找包含 news 或 行业资讯 的 section
