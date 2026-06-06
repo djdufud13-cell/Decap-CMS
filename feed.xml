@@ -5,7 +5,7 @@
     <link>https://liudeboke.com</link>
     <description>酚醛树脂配件专业博客</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 06 Jun 2026 10:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:43:39 +0000</lastBuildDate>
     <atom:link href="https://liudeboke.com/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title><![CDATA[]]></title>
@@ -13,6 +13,14 @@
     <guid isPermaLink="true"></guid>
     <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[The raw materials market has been lively lately. Phenol prices dropped from 9,350 RMB/ton in early April to 8,700 RMB/ton by April 21—a 650 RMB decline in three weeks, roughly 7%. For bakelite mechanical parts manufacturers and procurement teams, this is significant news.]]></description>
+    <category>Supplier Selection</category>
+  </item>
+  <item>
+    <title><![CDATA[]]></title>
+    <link></link>
+    <guid isPermaLink="true"></guid>
+    <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[Evaluating Custom Bakelite Parts Manufacturers: A Practical Audit Framework Beyond ISO Certificates Every custom bakelite parts manufacturer has an ISO 9001 certificate. Congratulations. So does the trading company that resells parts from three different factories.]]></description>
     <category>Supplier Selection</category>
   </item>
   <item>
@@ -118,14 +126,6 @@
     <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[A procurement engineer's firsthand account: after a CNY 47,000 rework cost from a failed supplier, I developed a five-question qualification framework that has prevented field failures ever since.]]></description>
     <category>Procurement</category>
-  </item>
-  <item>
-    <title><![CDATA[Sourcing Guide 2026: How to Choose the Right Phenolic Resin Mechanical Parts Supplier]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
-    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    <description><![CDATA[The phenolic resin market is giving buyers leverage right now—but only if you use a qualification framework that separates real process control from polished sales presentations.]]></description>
-    <category>Supplier Selection</category>
   </item>
   </channel>
 </rss>
