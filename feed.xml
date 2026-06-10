@@ -5,8 +5,24 @@
     <link>https://liudeboke.com</link>
     <description>酚醛树脂配件专业博客</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 06 Jun 2026 17:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 16:25:31 +0000</lastBuildDate>
     <atom:link href="https://liudeboke.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title><![CDATA[]]></title>
+    <link></link>
+    <guid isPermaLink="true"></guid>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[Phenol prices dropped from 9,350 RMB/ton in early April to 8,700 RMB/ton by April 21, a 650 RMB decline in three weeks. Here is how these price movements ripple through bakelite mechanical parts manufacturing costs.]]></description>
+    <category>Industry Insights</category>
+  </item>
+  <item>
+    <title><![CDATA[]]></title>
+    <link></link>
+    <guid isPermaLink="true"></guid>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    <description><![CDATA[Bakelite handles are everywhere in industrial settings, yet most buyers cannot tell the difference between a PF1A2 and a PF2A2 handle. This guide fixes that.]]></description>
+    <category>Product Sourcing</category>
+  </item>
   <item>
     <title><![CDATA[]]></title>
     <link></link>
@@ -110,22 +126,6 @@
     <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[When procurement engineers specify handwheels for industrial equipment, the default assumption has long been cast iron or steel. These materials carry cent]]></description>
     <category>Product Selection Guide</category>
-  </item>
-  <item>
-    <title><![CDATA[Phenolic Resin Mechanical Parts Supplier: Global Sourcing Strategies and Market Outlook 2026]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
-    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    <description><![CDATA[Global sourcing strategies for phenolic resin mechanical parts in 2026: regional supplier dynamics, phenol/formaldehyde price intelligence, supplier evaluation framework, and emerging trends.]]></description>
-    <category>Supplier Selection</category>
-  </item>
-  <item>
-    <title><![CDATA[Custom Bakelite Parts Manufacturing Guide]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
-    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    <description><![CDATA[A procurement engineer's firsthand account: after a CNY 47,000 rework cost from a failed supplier, I developed a five-question qualification framework that has prevented field failures ever since.]]></description>
-    <category>Procurement</category>
   </item>
   </channel>
 </rss>
