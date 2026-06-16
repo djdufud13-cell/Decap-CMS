@@ -1,131 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>刘的博客</title>
+    <title>Liu's Blog | Bakelite Phenolic Resin Expert</title>
     <link>https://liudeboke.com</link>
-    <description>酚醛树脂配件专业博客</description>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Jun 2026 10:16:20 +0000</lastBuildDate>
+    <description>15 years of Bakelite phenolic resin parts manufacturing expertise. Technical articles, supplier guides, and industry insights for engineering buyers.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:35:00 +0000</lastBuildDate>
     <atom:link href="https://liudeboke.com/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Phenolic Resin Mechanical Parts Supplier Selection: A Five-Dimension Analytical Framework for Industrial Buyers]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/48-phenolic-resin-mechanical-parts-supplier-selection-a-five-dimensi.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/48-phenolic-resin-mechanical-parts-supplier-selection-a-five-dimensi.html]]></guid>
     <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[Selecting the right phenolic resin mechanical parts supplier requires structured evaluation. This five-dimension framework helps industrial buyers make informed decisions.]]></description>
-    <category>Industry Insights</category>
+    <category><![CDATA[Industry Insights]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Bakelite Knob Manufacturing: Tolerances, Insulation Ratings, and Custom Design for Industrial Applications]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/49-bakelite-knob-manufacturing-tolerances-insulation-ratings-and-cus.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/49-bakelite-knob-manufacturing-tolerances-insulation-ratings-and-cus.html]]></guid>
     <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[A complete guide to bakelite knob manufacturing: understanding tolerances, insulation ratings, materials, and how to specify custom knobs for industrial equipment.]]></description>
-    <category>Product Guide</category>
+    <category><![CDATA[Product Guide]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Custom Bakelite Parts Manufacturer: Precision Engineering, Material Selection, and Quality Control]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/42-custom-bakelite-parts-manufacturer-precision-engineering-material.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/42-custom-bakelite-parts-manufacturer-precision-engineering-material.html]]></guid>
     <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[Precision engineering in custom bakelite parts manufacturing requires deep knowledge of phenolic resin grades, filler materials, molding parameters, and quality control systems.]]></description>
-    <category>Supplier Selection</category>
+    <category><![CDATA[Supplier Selection]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Phenolic Resin Mechanical Parts Supplier - Global Market Analysis and Procurement Strategies]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/43-phenolic-resin-mechanical-parts-supplier---global-market-analysis.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/43-phenolic-resin-mechanical-parts-supplier---global-market-analysis.html]]></guid>
     <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[The global phenolic resin mechanical parts market is undergoing structural shifts. This analysis covers market concentration, price trends, supply chain risks, and strategic procurement approaches for 2026.]]></description>
-    <category>Industry Insights</category>
+    <category><![CDATA[Industry Insights]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Bakelite Mechanical Parts Manufacturer Guide: Matching Supplier Specifications to Application Requirements]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/44-bakelite-mechanical-parts-manufacturer-guide-matching-supplier-sp.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/44-bakelite-mechanical-parts-manufacturer-guide-matching-supplier-sp.html]]></guid>
     <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[Not all bakelite mechanical parts manufacturers are created equal. This guide shows how to match supplier capabilities to your specific application requirements.]]></description>
-    <category>Supplier Selection</category>
+    <category><![CDATA[Supplier Selection]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Bakelite Mechanical Parts Manufacturer: Industry Outlook, Price Trends, and Procurement Guide 2026]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/45-bakelite-mechanical-parts-manufacturer-industry-outlook-price-tre.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/45-bakelite-mechanical-parts-manufacturer-industry-outlook-price-tre.html]]></guid>
     <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[Comprehensive industry outlook for bakelite mechanical parts manufacturers in 2026: price trends, phenol cost impacts, supply chain dynamics, and strategic procurement guidance for industrial buyers.]]></description>
-    <category>Industry Insights</category>
+    <category><![CDATA[Industry Insights]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Phenolic Resin Mechanical Parts Supplier: 2026 Market Outlook, Supplier Landscape, and Strategic Sourcing]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/46-phenolic-resin-mechanical-parts-supplier-2026-market-outlook-supp.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/46-phenolic-resin-mechanical-parts-supplier-2026-market-outlook-supp.html]]></guid>
     <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[In-depth 2026 market outlook for phenolic resin mechanical parts suppliers: market concentration, regional dynamics, pricing trends, and strategic sourcing recommendations.]]></description>
-    <category>Industry Insights</category>
+    <category><![CDATA[Industry Insights]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Bakelite Parts Wholesale Procurement: Three Market Signals You Must Track in 2026]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/47-bakelite-parts-wholesale-procurement-three-market-signals-you-mus.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/47-bakelite-parts-wholesale-procurement-three-market-signals-you-mus.html]]></guid>
     <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[Wholesale procurement of bakelite mechanical parts requires tracking specific market signals. Here are three indicators every industrial buyer needs to monitor in 2026.]]></description>
-    <category>Industry Insights</category>
+    <category><![CDATA[Industry Insights]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[How Phenolic Resin Price Trends Impact Bakelite Mechanical Parts Manufacturing in 2026]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/40-how-phenolic-resin-price-trends-impact-bakelite-mechanical-parts-manufacturing.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/40-how-phenolic-resin-price-trends-impact-bakelite-mechanical-parts-manufacturing.html]]></guid>
     <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[Phenol prices dropped from 9,350 RMB/ton in early April to 8,700 RMB/ton by April 21, a 650 RMB decline in three weeks. Here is how these price movements ripple through bakelite mechanical parts manufacturing costs.]]></description>
-    <category>Industry Insights</category>
+    <category><![CDATA[Industry Insights]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Bakelite Handle Sourcing: What Industrial Buyers Must Know About Grades, Tolerances, and Customization]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/41-bakelite-handle-sourcing-what-industrial-buyers-must-know-about-grades-tolerances-and-customization.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/41-bakelite-handle-sourcing-what-industrial-buyers-must-know-about-grades-tolerances-and-customization.html]]></guid>
     <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[Bakelite handles are everywhere in industrial settings, yet most buyers cannot tell the difference between a PF1A2 and a PF2A2 handle. This guide fixes that.]]></description>
-    <category>Product Sourcing</category>
+    <category><![CDATA[Product Sourcing]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[With So Many Bakelite Mechanical Parts Manufacturers, How Do You Find a Reliable One? Three Practical Tests]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/38-with-so-many-bakelite-mechanical-parts-manufacturers-how-do-you-find-a-reliable-one-three-practical-tests.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/38-with-so-many-bakelite-mechanical-parts-manufacturers-how-do-you-find-a-reliable-one-three-practical-tests.html]]></guid>
     <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[The raw materials market has been lively lately. Phenol prices dropped from 9,350 RMB/ton in early April to 8,700 RMB/ton by April 21—a 650 RMB decline in three weeks, roughly 7%. For bakelite mechanical parts manufacturers and procurement teams, this is significant news.]]></description>
-    <category>Supplier Selection</category>
+    <category><![CDATA[Supplier Selection]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Strategic Sourcing Guide: Choosing a Custom Bakelite Parts Manufacturer Amid Raw Material Price Volatility]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/39-strategic-sourcing-guide-choosing-a-custom-bakelite-parts-manufacturer-amid-raw-material-price-volatility.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/39-strategic-sourcing-guide-choosing-a-custom-bakelite-parts-manufacturer-amid-raw-material-price-volatility.html]]></guid>
     <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[Evaluating Custom Bakelite Parts Manufacturers: A Practical Audit Framework Beyond ISO Certificates Every custom bakelite parts manufacturer has an ISO 9001 certificate. Congratulations. So does the trading company that resells parts from three different factories.]]></description>
-    <category>Supplier Selection</category>
+    <category><![CDATA[Supplier Selection]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Phenolic Resin Mechanical Parts: Why Industrial Manufacturers Choose Bakelite in 2026]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/35-phenolic-resin-mechanical-parts-why-industrial-manufacturers-choose-bakelite-in-2026.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/35-phenolic-resin-mechanical-parts-why-industrial-manufacturers-choose-bakelite-in-2026.html]]></guid>
     <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[In the landscape of industrial material selection, phenolic resin mechanical parts—commonly known as bakelite parts—have maintained their irreplaceable position in critical engineering applications despite the emergence of newer polymer alternatives.]]></description>
-    <category>Market Analysis</category>
+    <category><![CDATA[Market Analysis]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Phenolic Resin Mechanical Parts Supplier: Global Sourcing Strategies and Market Outlook 2026]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/36-phenolic-resin-mechanical-parts-supplier-global-sourcing-strategies-and-market-outlook-2026.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/36-phenolic-resin-mechanical-parts-supplier-global-sourcing-strategies-and-market-outlook-2026.html]]></guid>
     <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[The global phenolic resin mechanical parts supplier market enters mid-2026 at a critical inflection point. Elevated feedstock costs, persistent supply chain disruptions, and intensifying demand have reshaped the competitive landscape.]]></description>
-    <category>Supplier Selection</category>
+    <category><![CDATA[Supplier Selection]]></category>
   </item>
   <item>
-    <title><![CDATA[]]></title>
-    <link></link>
-    <guid isPermaLink="true"></guid>
+    <title><![CDATA[Custom Bakelite Parts Manufacturer: Engineering Specifications and Cost Optimization Strategies for 2026]]></title>
+    <link><![CDATA[https://liudeboke.com/posts/en/37-custom-bakelite-parts-manufacturer-engineering-specifications-and-cost-optimization-strategies-2026.html]]></link>
+    <guid isPermaLink="true"><![CDATA[https://liudeboke.com/posts/en/37-custom-bakelite-parts-manufacturer-engineering-specifications-and-cost-optimization-strategies-2026.html]]></guid>
     <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     <description><![CDATA[As phenol prices continue their May 2026 correction, custom bakelite parts manufacturer teams face a pivotal question: how to translate raw material cost relief into competitive pricing while maintaining engineering precision.]]></description>
-    <category>Procurement</category>
+    <category><![CDATA[Procurement]]></category>
   </item>
   </channel>
 </rss>
