@@ -1,7 +1,10 @@
 User-agent: *
 Allow: /
+Disallow: /admin/
 
+# Sitemaps
 Sitemap: https://liudeboke.com/sitemap.xml
+Sitemap: https://liudeboke.com/sitemap_zh.xml
 
-# Crawl-delay for polite crawling
-Crawl-delay: 10
+# Crawl hint
+Crawl-delay: 1
